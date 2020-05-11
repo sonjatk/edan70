@@ -92,6 +92,11 @@ def get_metadata():
     return metadata
 
 def get_divid(text):
+    '''
+    FIX THIS: index nbr should not be bound to the
+    specific part, if there is no abstract but only title and body_text,
+    then title is 0 and body_text 1. See discord general chat.
+    '''
     divid = 0
     if text == "title":
         divid = 0
@@ -155,7 +160,7 @@ def main():
     denotation = abbr_denotation(abstract)
     pubannotation = make_pubannotation(metadata[sha], "abstract", abstract, denotation)
     print(pubannotation)
-    
+
     '''
     Stuff to fill in with later when implemented
     '''
