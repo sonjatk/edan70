@@ -43,9 +43,10 @@ def get_abstract(article):
             abstract.append(word["text"])
         
         abstract = ''.join(abstract) # convert text from list to string
-        
+        #print(f["abstract"])
         # Add abbreviation class in abstract with detected abbreviations
-        f["abstract"][0]["abbreviations"] = get_abbreviations(abstract)
+        if f["abstract"] != []:
+            f["abstract"][0]["abbreviations"] = get_abbreviations(abstract)
     return abstract
 
 def get_body_text(article):
@@ -64,9 +65,9 @@ def get_body_text(article):
         
         body_text = ''.join(body_text) # convert text from list to string
         # Add abbreviation class in abstract with detected abbreviations
-        f["body_text"][0]["abbreviations"] = get_abbreviations(body_text)
+        if f["body_text"] != []:
+            f["body_text"][0]["abbreviations"] = get_abbreviations(body_text)
         #print(f["body_text"][0])
-
     return body_text
 
 def get_abbreviations(text): 
@@ -91,19 +92,29 @@ def get_metadata():
         #print(len(metadata))  # Check that all the aricles are included
     return metadata
 
-def get_divid(text):
+def get_divid(article, part):
     '''
-    FIX THIS: index nbr should not be bound to the
-    specific part, if there is no abstract but only title and body_text,
-    then title is 0 and body_text 1. See discord general chat.
+    FIX THIS: Counter for mulitple sections in a part is not implemented yet
     '''
+    title = get_title(article)
+    abstract = get_abstract(article)
+    body_text = get_body_text(article)
     divid = 0
-    if text == "title":
+
+    if part == "title" and title != '':
         divid = 0
-    elif text == "abstract":
-        divid = 1
+    elif part == "abstract":
+        if title != '' and abstract != '':
+            divid = 1
+        elif title == '' and abstract != '':
+            divid = 0
     else:
-        divid = 2
+        if title != '' and abstract != '' and body_text != '':
+            divid = 2
+        elif title != '' and abstract == '' and body_text != '':
+            divid = 1
+        else:
+            divid = 0
     return divid
 
 def abbr_denotation(text):
@@ -119,34 +130,50 @@ def abbr_denotation(text):
         denotation.append(denote)
     return denotation
 
-
-
-
-def make_pubannotation(metadata, part, text, denonation):
+def make_pubannotation(article, metadata, part, text):
     '''
-    Make a pubannotation from the data. NOTE: IMPLEMENT LATER PROPERLY, JUST SHELL RN
-    part is part in article, text is the text in the part of the article
+    Make a pubannotation from the data. 
+    article = the file name for the article
+    metadata = the metadata for that article that is wanted
+    part = which part of the article in a string, e.g "title"
+    text = text content of the part of the article
     '''
     pubannotation = {}
     pubannotation["cord_uid"] = str(metadata[0])
     pubannotation["source_x"] = str(metadata[1])
     pubannotation["pmcid"] = str(metadata[2])
-    pubannotation["divid"] = str(get_divid(part))
+    pubannotation["divid"] = str(get_divid(article, part))
     pubannotation["text"] = text
     pubannotation["project"] = "cdlai_CORD-19"
     pubannotation["denotations"] = abbr_denotation(text)
     
     return pubannotation
 
-
+def export_file(article, id, part, pubannotation):
+    '''
+    Write the file for the part of the article to an output folder named "pubannotation"
+    '''
+    name = id + '-' + str(get_divid(article, part)) + '-' + part
+    path = "/mnt/c/Users/Sonja/OneDrive/Dokument/Skola/Projektkurs/edan70/pubannotation/" + name + '.json'
+    
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(pubannotation, f, ensure_ascii=False, indent=4)
+ 
 def main():
-    article = all_articles[1] # add a loop here to do this for all articles
+    '''
+    Here iterate over all the articles in the subset. For now just go through ine article for testing.
+    '''
+    #article = all_articles[1] # add a loop here to do this for all articles
+    article = "0fb887acf88daa31d5ae2b7d176baf904d6c5dfc.json"
     title = get_title(article)
     abstract = get_abstract(article)
     body_text = get_body_text(article)
     metadata = get_metadata()
-    #print("Article:", article)
-    #print("metadata: ", metadata)
+    print("Article:", article)
+    print("title: ", title)
+    print("Abstract: ", abstract)
+    print("Body_text: ", body_text)
+    print("metadata: ", metadata)
     sha = article[:-5] # strip article with .json format ending
     #print(sha)
     #print(metadata[sha]) # what if the article has 2 sha, will metadata[sha] look in both these if its a match? probs, but double check
@@ -157,23 +184,25 @@ def main():
     print("Abbreviations: ", abbreviations)
     print(abbr_denotation(abstract)) # WORKS
     '''
-    denotation = abbr_denotation(abstract)
-    pubannotation = make_pubannotation(metadata[sha], "abstract", abstract, denotation)
-    print(pubannotation)
+    #denotation = abbr_denotation(abstract)
+    #pubannotation = make_pubannotation(metadata[sha], "abstract", abstract, denotation)
+    #print(pubannotation)
 
-    '''
-    Stuff to fill in with later when implemented
-    '''
-    # denotations_title = get_denotations(title)
-    # denotations_abstract = get_dentations(abstract)
-    # denotations_body_text = get_denotations(body_text)
-
-    # pubannotation_title = make_pubannotation(metadata[sha], title, denotations)
-    # pubannotation_abstract = make_pubannotation(metadata[sha], abstract, denotations)
-    # pubannotation_body_text = make_pubannotation(metadata[sha], body_text, denotations)
-    # export all pubannotations to separate files
-
-    
+    if title != '':
+        #denotations_title = abbr_denotation(title)
+        pubannotation_title = make_pubannotation(article, metadata[sha], "title", title)
+        print("Pubannotation title: ", pubannotation_title)
+        export_file(article, metadata[sha][0], "title", pubannotation_title)
+    if abstract != '':
+        #denotations_abstract = abbr_denotation(abstract)
+        pubannotation_abstract = make_pubannotation(article, metadata[sha], "abstract", abstract)
+        print("Pubannotations abstract: ", pubannotation_abstract)
+        export_file(article, metadata[sha][0], "abstract", pubannotation_abstract)
+    if body_text != '':
+        #denotations_body_text = abbr_denotation(body_text)
+        pubannotation_body_text = make_pubannotation(article, metadata[sha], "body_text", body_text)
+        print("Pubannotations body_text: ", pubannotation_body_text)
+        export_file(article, metadata[sha][0], "body_text", pubannotation_body_text)
 
 if __name__ == "__main__":
     main()
