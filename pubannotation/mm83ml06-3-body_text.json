@@ -1,0 +1,82 @@
+{
+    "cord_uid": "mm83ml06",
+    "source_x": "PMC",
+    "pmcid": "PMC5580479",
+    "divid": "3",
+    "text": "HeLa SS6, HeLa TZM-bl, and HEK293T cells were maintained in Dulbecco's Modified Eagle's Medium (DMEM) containing 10% (v/v) inactivated fetal calf serum (FCS), 2 mM L-glutamine, 100 U/mL penicillin, and 100 µg/mL streptomycin. HeLa-K b cells were cultivated in DMEM with additional 1 mg/mL geneticin. All cell culture media and reagents were purchased from Gibco (Life Technologies, Carlsbad, CA, USA). CEMx174 cells were cultured in RPMI Media 1640 supplemented with 10% (v/v) inactivated FCS, 2 mM L-glutamine, 100 U/mL penicillin, and 100 µg/mL streptomycin. Confluent monolayers of HeLa cells were transfected with Lipofectamine 2000 (Life Technologies) according to the manufacturer's protocol. Twenty-four hours post transfection cells were lysed in radio immunoprecipitation assay (RIPA) buffer (150 mM NaCl, 50 mM Tris-HCl pH 8.0, 1% NP-40, 0.5% Na-deoxycholate, 0.1% sodium dodecyl sulfate (SDS), 10 mM ethylenediaminetetraacetic acid (EDTA)) containing protease inhibitor cocktail Complete (Roche, Basel, Switzerland), 5 mM N-ethylmaleimide (NEM), and 1 mM phenylmethylsulfonylfluoride (PMSF).",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 96,
+                "end": 100
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 260,
+                "end": 264
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 153,
+                "end": 156
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 489,
+                "end": 492
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 788,
+                "end": 792
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 899,
+                "end": 902
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 944,
+                "end": 948
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 1051,
+                "end": 1054
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 1096,
+                "end": 1100
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

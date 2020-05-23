@@ -1,0 +1,26 @@
+{
+    "cord_uid": "0hbeso65",
+    "source_x": "PMC",
+    "pmcid": "PMC3655463",
+    "divid": "21",
+    "text": "The current therapy against HCV infection, consisting of a combination of pegylated interferon (IFN) and ribavirin (RBV), is limited by resistance, adverse effects, and high costs. The absence of preventive regiment is a major limitation for patients undergoing LT for HCV-related liver failure. Moreover, accelerated progression to liver cirrhosis after graft reinfection and limited efficacy of IFN-based therapies for recurrent HCV are two major clinical issues leading to poor posttransplant outcome of the HCV recipients [80] . Thus, novel preventive and therapeutic antivirals are urgently needed. Viral entry is required for initiation, spread, and maintenance of infection. HCV entry is a multistep process orchestrated by a number of viral and host cell factors.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 96,
+                "end": 99
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 116,
+                "end": 119
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "cord_uid": "0oq4kkn5",
+    "source_x": "PMC",
+    "pmcid": "PMC5052702",
+    "divid": "10",
+    "text": "2 (1 eq) was dissolved in pyridine (10 ml per 0.5 mg 2) and stirred vigorously. Trans-2,3-Epoxysuccinic acid (2.95 eq) and N,N'-dicyclohexylcarbodiimide (2.95 eq) was added and the suspension stirred overnight. The solvent was removed in vacuo, the residue was taken up in ethanol and aqueous sodium hydroxide solution (2 mol/l, 2 eq) was added dropwise. After 30 minutes of stirring, the solvent was removed in vacuo, after which the residue was taken up in aqueous acetonitrile, filtered and purified with reversed phase liquid chromatography, which (2), 27.9 (2), 23,9 (2), 13.9; mp.: > 250°C (decomp.). 163.8, 160.5, 134,8, 84.8, 61.1, 56.4, 53.7, 52.4, 34.3, 34.2, 27.8 (2) , 23.9 (2), 13.9; mp.: 70-71°C.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 110,
+                "end": 117
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 154,
+                "end": 161
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 676,
+                "end": 677
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 320,
+                "end": 321
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 0,
+                "end": 1
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 53,
+                "end": 54
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 329,
+                "end": 330
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 553,
+                "end": 554
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 687,
+                "end": 688
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 573,
+                "end": 574
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T11",
+            "span": {
+                "begin": 563,
+                "end": 564
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

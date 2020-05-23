@@ -1,0 +1,34 @@
+{
+    "cord_uid": "p95vzcoy",
+    "source_x": "PMC",
+    "pmcid": "PMC6920936",
+    "divid": "2",
+    "text": "The deformed wing virus (DWV) is a prevalent virus in honeybees with a broad host range spanning at least eight insect orders and three orders of Arachnida [17] [18] [19] [20] [21] . This virus is a positive sense single-stranded RNA virus and a harmful honeybee pathogen [22] , of which at least three distinct genotypes or master variants-type A, B, and C-are known [21] . DWV can cause clinical symptoms such as crippled wings, a shortened abdomen, and a reduced host lifespan [22] [23] [24] . Driven by efficient vector transmission via ectoparasitic mites Varroa destructor, DWV has become ubiquitous [25] [26] [27] [28] .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 375,
+                "end": 378
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 580,
+                "end": 583
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 25,
+                "end": 28
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

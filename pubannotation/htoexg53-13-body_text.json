@@ -1,0 +1,66 @@
+{
+    "cord_uid": "htoexg53",
+    "source_x": "PMC",
+    "pmcid": "PMC6316859",
+    "divid": "13",
+    "text": "Groups of female BALB/c mice (n = 2 to 5) were immunized twice within a 21-day interval with 10 8 plaque-forming-units (PFU) of recombinant MVA-MERS-N or non-recombinant MVA (MVA) or PBS as mock vaccine. Vaccinations were given via the intramuscular (i.m.) or intraperitoneal (i.p.) route using 25 µL (i.m.) or 200 µL (i.p.) volumes per inoculation. All mice were monitored daily for welfare and potential adverse events of immunization. At day 8 post prime-boost immunization, animals were sacrificed by cervical dislocation and spleens were taken for T cell analysis.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 120,
+                "end": 123
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 170,
+                "end": 173
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 175,
+                "end": 178
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 251,
+                "end": 255
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 302,
+                "end": 306
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 319,
+                "end": 323
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 277,
+                "end": 281
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

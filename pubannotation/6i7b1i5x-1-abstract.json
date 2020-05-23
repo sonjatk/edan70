@@ -1,0 +1,74 @@
+{
+    "cord_uid": "6i7b1i5x",
+    "source_x": "PMC",
+    "pmcid": "PMC6514959",
+    "divid": "1",
+    "text": "The etiology of Kawasaki disease (KD), the leading cause of acquired heart disease in children, is currently unknown. Epidemiology supports a relationship of KD to an infectious disease. Several pathological mechanisms are being considered, including a superantigen response, direct invasion by an infectious etiology or an autoimmune phenomenon. Treating affected patients with intravenous immunoglobulin is effective at reducing the rates of coronary aneurysms. However, the role of B cells and antibodies in KD pathogenesis remains unclear. Murine models are not clear on the role for B cells and antibodies in pathogenesis. Studies on rare aneurysm specimens reveal plasma cell infiltrates. Antibodies generated from these aneurysmal plasma cell infiltrates showed cross-reaction to intracellular inclusions in the bronchial epithelium of a number of pathologic specimens from children with KD. These antibodies have not defined an etiology. Notably, a number of autoantibody responses have been reported in children with KD. Recent studies show acute B cell responses are similar in children with KD compared to children with infections, lending further support of an infectious disease cause of KD. Here, we will review and discuss the inconsistencies in the literature in relation to B cell responses, specific antibodies, and a potential role for humoral immunity in KD pathogenesis or diagnosis.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 1201,
+                "end": 1203
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 158,
+                "end": 160
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 1102,
+                "end": 1104
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 1375,
+                "end": 1377
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 511,
+                "end": 513
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 895,
+                "end": 897
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 1026,
+                "end": 1028
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 34,
+                "end": 36
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

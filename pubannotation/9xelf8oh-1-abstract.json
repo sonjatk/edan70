@@ -1,0 +1,90 @@
+{
+    "cord_uid": "9xelf8oh",
+    "source_x": "PMC",
+    "pmcid": "PMC7088385",
+    "divid": "1",
+    "text": "Rapid development in polymerase chain reaction (PCR) technology has revolutionised the speed and accuracy of many diagnostic assays. However, comparatively few wildlife epidemiological studies use quantitative PCR (qPCR) for pathogen detection, even fewer employ an internal control, to ensure confidence in negative results, and PCR's ability to multiplex and therefore detect several targets in a single reaction is underutilised. Here, we describe the development of two multiplex qPCR assays for the red and grey squirrel that detect the pathogens squirrelpox virus (SQPV) and adenovirus in squirrels (SADV), both of which cause mortality in the red squirrel. Both assays use a section of the squirrel phosphoglycerate kinase gene as an endogenous internal control that identifies and compensates for both, inadequate sampling or PCR inhibition. Tests on infected squirrel tissue demonstrate that simple swab samples (particularly from distal antebrachial skin) are sufficient to detect and identify the relative quantity of SQPV DNA in both squirrel species, while rectal swabs and blood cell pellets can be used to reliably indicate SADV infection. These assays are sensitive and specific with an endogenous internal control providing confidence in negative results and allowing comparison across laboratories. Using such assays should prove advantageous in wildlife studies with limited resources while allowing the maximum data yield.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 330,
+                "end": 333
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 210,
+                "end": 213
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 834,
+                "end": 837
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 48,
+                "end": 51
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 215,
+                "end": 219
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 484,
+                "end": 488
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 571,
+                "end": 575
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 1029,
+                "end": 1033
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 1139,
+                "end": 1143
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 606,
+                "end": 610
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

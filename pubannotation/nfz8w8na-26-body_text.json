@@ -1,0 +1,34 @@
+{
+    "cord_uid": "nfz8w8na",
+    "source_x": "PMC",
+    "pmcid": "PMC7100305",
+    "divid": "26",
+    "text": "The relationship between the Zika virus and pregnancy is further implicated by social inequalities in the context of reproductive rights and freedoms. Access to reproductive health services, such as contraception and abortion are discouraged or illegal in many epidemic countries (Plourde and Bloch 2016) . Tavares & Foster (2016) suggest that Bthis public health emergency offers a window of opportunity to advance national policies and practices to ensure that Brazilian women have access to a full range of reproductive health services^(p. 109) (Tavares and Foster 2016) . This speaks to the inherent politicization of the Zika epidemic.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 299,
+                "end": 303
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 568,
+                "end": 572
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 325,
+                "end": 329
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

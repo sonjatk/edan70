@@ -1,0 +1,34 @@
+{
+    "cord_uid": "1dfzj1b3",
+    "source_x": "PMC",
+    "pmcid": "PMC6259136",
+    "divid": "97",
+    "text": "The inhibition of activity or expression of COX-2 by some anti-inflammatory is due to the interference with the signalling mechanisms that regulate the COX-2 gene. In this gene, four transcription factors including NF-κB, CCAAT/enhancer-binding protein (C/EBP), activator protein 1 (AP-1) and CRE-binding protein (CREB) have been identified as regulators of COX-2 transcription [22, 126] . NF-κB and MAPKs are of current interest as potential targets in therapies form diverse inflammatory symptoms.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 254,
+                "end": 259
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 283,
+                "end": 287
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 314,
+                "end": 318
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

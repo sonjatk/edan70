@@ -1,0 +1,266 @@
+{
+    "cord_uid": "qriqtv0y",
+    "source_x": "PMC",
+    "pmcid": "PMC6642606",
+    "divid": "8",
+    "text": "Genetic analyses of Thai CaKoVs showed that whole genome of 4 Thai CaKoVs posed highest nucleotide similarity to Chinese CaKoVs including SMCD-59 and CH-1. This observation supported phylogenetic analysis that Thai CaKoVs were closely related to Chinese CaKoVs sub-cluster but in separated sub-cluster from (100) 100 (100) 100 (100) 100 (100) 100 (100) 100 (100) 100 (100) 100 (100) 100 (100) 100 (100) (100) 100 (100) 97.1 (100) 99.4 (100) 100 (100) 100 (100) 100 (100) (100) 96 (100) the viruses from the US, UK, Brazil and Tanzania. Of all viral genes, the VP1 gene was the most diverse gene among Thai CaKoVs and other reference CaKoVs. Similar observation was also reported in previous study that VP1 protein is the most variable capsid protein [24] . It is noted that the putative proline rich region at VP1-228-240 (P 228 XPPPPXPPXPXP 240 ) was observed both in Thai CaKoVs and reference viruses. Previous studies indicated that proline rich region may associate with enteric receptor binding of the viruses [14, 24] . It is noted that Thai CaKoVs posed unique PPP (VP1; 228-240), which also observed most reference viruses from China, Korea, Japan, US, UK suggesting unique characteristic. These unique amino acids were not observed in the CaKoV from the Australia (CE9), Brazil (BRA/26) and Tanzania (TZ/75, TZ82) [16, 20] . However, the association of these unique amino acids and viral pathogenesis is still need to be further investigated. Based on genetic analysis, unique amino acids at the position, 65 V, 67D, 119L, 138 T, 150P, 151M, 153D, 201S, 204Q, 205Q, 201Q, 213 T and 241E were observed. These unique amino acids of China/ Thailand sub-cluster could be benefit for the detection of virus origin or diagnostic purpose in the future. Similar to previous study, analysis of predicted amino acid cleavage sits of whole genome were conserved among CaKoVs except one variation at 776/777 (VP3/VP1) which unique in wild carnivores [16] .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 368,
+                "end": 371
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 436,
+                "end": 439
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 358,
+                "end": 361
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 378,
+                "end": 381
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 414,
+                "end": 417
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 441,
+                "end": 444
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 353,
+                "end": 356
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 481,
+                "end": 484
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 328,
+                "end": 331
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 456,
+                "end": 459
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T11",
+            "span": {
+                "begin": 388,
+                "end": 391
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T12",
+            "span": {
+                "begin": 348,
+                "end": 351
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T13",
+            "span": {
+                "begin": 393,
+                "end": 396
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T14",
+            "span": {
+                "begin": 373,
+                "end": 376
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T15",
+            "span": {
+                "begin": 323,
+                "end": 326
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T16",
+            "span": {
+                "begin": 451,
+                "end": 454
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T17",
+            "span": {
+                "begin": 338,
+                "end": 341
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T18",
+            "span": {
+                "begin": 466,
+                "end": 469
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T19",
+            "span": {
+                "begin": 308,
+                "end": 311
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T20",
+            "span": {
+                "begin": 363,
+                "end": 366
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T21",
+            "span": {
+                "begin": 313,
+                "end": 316
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T22",
+            "span": {
+                "begin": 318,
+                "end": 321
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T23",
+            "span": {
+                "begin": 446,
+                "end": 449
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T24",
+            "span": {
+                "begin": 333,
+                "end": 336
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T25",
+            "span": {
+                "begin": 461,
+                "end": 464
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T26",
+            "span": {
+                "begin": 383,
+                "end": 386
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T27",
+            "span": {
+                "begin": 343,
+                "end": 346
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T28",
+            "span": {
+                "begin": 425,
+                "end": 428
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T29",
+            "span": {
+                "begin": 398,
+                "end": 401
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T30",
+            "span": {
+                "begin": 472,
+                "end": 475
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T31",
+            "span": {
+                "begin": 404,
+                "end": 407
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T32",
+            "span": {
+                "begin": 409,
+                "end": 412
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

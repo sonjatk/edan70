@@ -1,0 +1,114 @@
+{
+    "cord_uid": "8gbktpt3",
+    "source_x": "PMC",
+    "pmcid": "PMC6950618",
+    "divid": "1",
+    "text": "Feline panleukopenia (FPL), a frequently fatal disease of cats, is caused by feline parvovirus (FPV) or canine parvovirus (CPV). We investigated simultaneous outbreaks of FPL between 2014 and 2018 in Australia, New Zealand and the United Arab Emirates (UAE) where FPL outbreaks had not been reported for several decades. Case data from 989 cats and clinical samples from additional 113 cats were obtained to determine the cause of the outbreaks and epidemiological factors involved. Most cats with FPL were shelter-housed, 9 to 10 weeks old at diagnosis, unvaccinated, had not completed a primary vaccination series or had received vaccinations noncompliant with current guidelines. Analysis of parvoviral VP2 sequence data confirmed that all FPL cases were caused by FPV and not CPV. Phylogenetic analysis revealed that each of these outbreaks was caused by a distinct FPV, with two virus lineages present in eastern Australia and virus movement between different geographical locations. Viruses from the UAE outbreak formed a lineage of unknown origin. FPV vaccine virus was detected in the New Zealand cases, highlighting the difficulty of distinguishing the co-incidental shedding of vaccine virus in vaccinated cats. Inadequate vaccination coverage in shelter-housed cats was a common factor in all outbreaks, likely precipitating the multiple re-emergence of infection events.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 171,
+                "end": 174
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 498,
+                "end": 501
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 264,
+                "end": 267
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 743,
+                "end": 746
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 22,
+                "end": 25
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 768,
+                "end": 771
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 870,
+                "end": 873
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 1055,
+                "end": 1058
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 96,
+                "end": 99
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 780,
+                "end": 783
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T11",
+            "span": {
+                "begin": 123,
+                "end": 126
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T12",
+            "span": {
+                "begin": 253,
+                "end": 256
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T13",
+            "span": {
+                "begin": 1006,
+                "end": 1009
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

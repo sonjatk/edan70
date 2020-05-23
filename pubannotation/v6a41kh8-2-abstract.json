@@ -1,0 +1,58 @@
+{
+    "cord_uid": "v6a41kh8",
+    "source_x": "PMC",
+    "pmcid": "PMC2727531",
+    "divid": "2",
+    "text": "Methods: From July 2004 to June 2007, we examined nasopharyngeal aspirates (NPA) from 2,230 cases of pneumonia (World Health Organization criteria) in children 2 to 35 months old recruited in a randomized trial of zinc supplementation at a field clinic in Bhaktapur, Nepal. The specimens were examined for respiratory syncytial virus (RSV), influenza virus type A (InfA) and B (InfB), parainfluenza virus types 1, 2 and 3 (PIV1, PIV2, and PIV3), and human metapneumovirus (hMPV) using a multiplex reverse transcriptase polymerase chain reaction (PCR) assay.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 76,
+                "end": 79
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 335,
+                "end": 338
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 365,
+                "end": 369
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 378,
+                "end": 382
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 473,
+                "end": 477
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 546,
+                "end": 549
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

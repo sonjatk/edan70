@@ -1,0 +1,42 @@
+{
+    "cord_uid": "88q36g00",
+    "source_x": "PMC",
+    "pmcid": "PMC6003913",
+    "divid": "26",
+    "text": "Quantitative reverse transcription-polymerase chain reaction (RT-PCR). Total RNA from the astrocyte cultures was extracted using the RNeasy Mini Kit (Qiagen Inc., Tokyo, Japan). The RT reaction with 100 ng of total RNA was carried out with a first strand cDNA synthesis kit (ReverTra Ace; Toyobo Co., Ltd, Osaka, Japan). The expression levels of mRNAs encoding TNF-α, IL-1β, and IL-6 were evaluated by quantitative PCR (qPCR) using the Thermal Cycler Dice (Takara Bio Inc., Tokyo, Japan) and SYBRII Premix Ex Taq (Takara Bio Inc.) reagents. Primers for qRT-PCR are listed in Table 1 .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 62,
+                "end": 68
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 420,
+                "end": 424
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 514,
+                "end": 529
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 457,
+                "end": 472
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

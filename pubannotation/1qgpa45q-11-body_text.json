@@ -1,0 +1,26 @@
+{
+    "cord_uid": "1qgpa45q",
+    "source_x": "PMC",
+    "pmcid": "PMC6941262",
+    "divid": "11",
+    "text": "We combined the five genome sequences from Kenya and Zambia with available global sequences, aligned individual genes and calculated the percent nucleotide (nt) and amino acid (aa) identity ( Table 2) .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 157,
+                "end": 159
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 177,
+                "end": 179
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

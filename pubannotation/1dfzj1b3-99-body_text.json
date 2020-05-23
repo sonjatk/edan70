@@ -1,0 +1,26 @@
+{
+    "cord_uid": "1dfzj1b3",
+    "source_x": "PMC",
+    "pmcid": "PMC6259136",
+    "divid": "99",
+    "text": "In macrophages and other types of cells, LPS activates three subclasses of MAPKs: extracellular signal-regulated kinase (ERK), c-Jun-terminal kinase (JNK) and p38. Studies have revealed that some compounds are able to suppress proinflammatory cytokines and NF-κB, to inhibit the COX-2 and iNOS expression inhibiting some of these MAPKS [129] [130] [131] .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 121,
+                "end": 124
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 150,
+                "end": 153
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

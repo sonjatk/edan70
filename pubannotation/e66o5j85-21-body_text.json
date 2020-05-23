@@ -1,0 +1,58 @@
+{
+    "cord_uid": "e66o5j85",
+    "source_x": "PMC",
+    "pmcid": "PMC4687909",
+    "divid": "21",
+    "text": "Four (3.9%) pneumonia cases presented a ventricular septal defect. None had previous tuberculosis or underlying lung disease. Among cases with pulmonary crackles, 36 (35.3%) were unilateral and 66 (64.7%) were bilateral. Other signs or medical history of pneumonia cases included sickle-cell anaemia (n = 1), dehydration (n = 1), epilepsy (n = 1), goiter (n = 1), edema (n = 1), pallor (n = 1), and trisomy (n = 3).",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 371,
+                "end": 376
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 387,
+                "end": 392
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 301,
+                "end": 306
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 356,
+                "end": 361
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 340,
+                "end": 345
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 322,
+                "end": 327
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

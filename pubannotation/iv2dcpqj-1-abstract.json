@@ -1,0 +1,146 @@
+{
+    "cord_uid": "iv2dcpqj",
+    "source_x": "PMC",
+    "pmcid": "PMC4576194",
+    "divid": "1",
+    "text": "The NS5A protein of classical swine fever virus (CSFV) is involved in the RNA synthesis and viral replication. However, the NS5A-interacting cellular proteins engaged in the CSFV replication are poorly defined. Using yeast two-hybrid screen, the eukaryotic elongation factor 1A (eEF1A) was identified to be an NS5A-binding partner. The NS5A-eEF1A interaction was confirmed by coimmunoprecipitation, glutathione S-transferase (GST) pulldown and laser confocal microscopy assays. The domain I of eEF1A was shown to be critical for the NS5A-eEF1A interaction. Overexpression of eEF1A suppressed the CSFV growth markedly, and conversely, knockdown of eEF1A enhanced the CSFV replication significantly. Furthermore, eEF1A, as well as NS5A, was found to reduce the translation efficiency of the internal ribosome entry site (IRES) of CSFV in a dose-dependent manner, as demonstrated by luciferase reporter assay. Streptavidin pulldown assay revealed that eEF1A could bind to the CSFV IRES. Collectively, our results suggest that eEF1A interacts with NS5A and negatively regulates the growth of CSFV.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 666,
+                "end": 670
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 49,
+                "end": 53
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 1088,
+                "end": 1092
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 174,
+                "end": 178
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 973,
+                "end": 977
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 828,
+                "end": 832
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 596,
+                "end": 600
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 1023,
+                "end": 1028
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 647,
+                "end": 652
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 494,
+                "end": 499
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T11",
+            "span": {
+                "begin": 711,
+                "end": 716
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T12",
+            "span": {
+                "begin": 949,
+                "end": 954
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T13",
+            "span": {
+                "begin": 575,
+                "end": 580
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T14",
+            "span": {
+                "begin": 279,
+                "end": 284
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T15",
+            "span": {
+                "begin": 426,
+                "end": 429
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T16",
+            "span": {
+                "begin": 978,
+                "end": 982
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T17",
+            "span": {
+                "begin": 819,
+                "end": 823
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "cord_uid": "9xelf8oh",
+    "source_x": "PMC",
+    "pmcid": "PMC7088385",
+    "divid": "31",
+    "text": "(4) (1) (11) (11) (11) (11) (11) (9) (11) (11) (11) (9) (11) (11) developed multiplex qPCR assays for two squirrel species indicates that developing multiplex qPCR assays for multiple pathogens in other wildlife species should be relatively straightforward. A clear benefit is that, since much of the optimisation and validation is carried out in multiplex, there is relatively little additional work required to develop assays that screen for more than one pathogen; moreover, multiplex reactions increase the amount of data gained from a single sample, and incorporating an endogenous IC into the design provides confidence in the reliability of the (negative) results and allows comparison of results across laboratories. Therefore, any disadvantage of additional initial investment into assay development is quickly outweighed by the greater quantity and quality of data produced. Overall, the new assays identified similar findings to the previously published methods. Our SQPV assays and the Atkin et al. (2010) SYBR® green assay both identified SQPVas a localised infection in grey squirrels, compared with the generalised, systemic infection in red squirrels. The agreement between available TEM data and our qPCR assays for SADV was moderate (k value = 0.39), but this level of agreement is nonetheless superior to that reported in studies using conventional PCR. Grey squirrel SADV results are reasonably comparable to previous studies reporting infection prevalence of spleen and blood samples as 54-57 and 0-7 % (Everest et al. 2014 ) in comparison to 33 and 50 % reported here. The difference in prevalence of SADV in blood samples may reflect the increased sensitivity of the qPCR assay developed, with the level of SADV in blood generally low, and thus potentially overlooked when screening with conventional PCR. However, differences in selection, geography and time of year may also have been responsible for or contributed to the data obtained. In red squirrels, SADV is believed to be an enteric infection although systemic effects are witnessed, with splenitis commonly reported (Martinez-Jimenez et al. 2011; Sainsbury et al. 2001) . This is supported by our data, with the gastrointestinal tract, liver, blood and spleen showing the highest intensities and prevalence of SADV infection.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 14,
+                "end": 16
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 38,
+                "end": 40
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 29,
+                "end": 31
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 62,
+                "end": 64
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 43,
+                "end": 45
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 24,
+                "end": 26
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 9,
+                "end": 11
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 57,
+                "end": 59
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 19,
+                "end": 21
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 48,
+                "end": 50
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

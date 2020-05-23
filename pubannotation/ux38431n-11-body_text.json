@@ -1,0 +1,26 @@
+{
+    "cord_uid": "ux38431n",
+    "source_x": "PMC",
+    "pmcid": "PMC4391708",
+    "divid": "11",
+    "text": "After the nested-PCR amplification, 5 μL reaction mixtures was subjected to electrophoresis on a 2% agarose gel containing 0.5 μg ethidium bromide per mL. The positive products were gel purified for DNA sequencing using the QIAquick Gel Extraction Kit (Qiagen) according to the manufacturer's instructions. DNA sequencing was performed using the Cycle Sequencing Kit (Qiagen) on a DNA analyser.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 368,
+                "end": 374
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 253,
+                "end": 259
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

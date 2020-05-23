@@ -1,0 +1,26 @@
+{
+    "cord_uid": "e66o5j85",
+    "source_x": "PMC",
+    "pmcid": "PMC4687909",
+    "divid": "14",
+    "text": "Crude population attributable fraction (PAF) was calculated after univariate logistic regression analysis to quantify the contribution of the each microorganism to pneumonia occurrence. Conceptuality, PAF permits the estimation of the proportional reduction in pneumonia occurrence that would occur if the pathogen was absent (alternative ideal scenario). The formula was the following:",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 201,
+                "end": 204
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 40,
+                "end": 43
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

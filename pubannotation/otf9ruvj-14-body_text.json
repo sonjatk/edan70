@@ -1,0 +1,66 @@
+{
+    "cord_uid": "otf9ruvj",
+    "source_x": "PMC",
+    "pmcid": "PMC5827994",
+    "divid": "14",
+    "text": "To identify causal infections, bronchoalveolar lavage (BAL) samples, blood cultures, urinary samples, and perioperative samples were analyzed. In patients at risk, PCR for atypical pathogens was also performed in BAL samples. Infection was defined as > 10 6 colony-forming units (CFU) in BAL and/or urinary cultures. For blood cultures, any replicate of bacterial growth was defined as infection. During flu season, influenza infection was detected by PCR. BAL samples were also analyzed for other viral pathogens, such as cytomegalovirus (CMV) and herpes simplex virus (HSV). Positive findings for these viruses were confirmed by cell cultures. Patients with unknown pathogens and immune suppression were additionally screened for other pathogens.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 457,
+                "end": 460
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 55,
+                "end": 58
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 288,
+                "end": 291
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 213,
+                "end": 216
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 280,
+                "end": 283
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 540,
+                "end": 543
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 571,
+                "end": 574
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "cord_uid": "vgfdfuza",
+    "source_x": "PMC",
+    "pmcid": "PMC6963657",
+    "divid": "2",
+    "text": "Antimicrobial resistance (AMR) has gained considerable recognition as a major global public health threat [1] [2] [3] [4] . The impact of AMR has been described as a \"doomsday scenario\" where antibiotics can no longer be relied upon and even minor infections could become untreatable and result in severe morbidity, death and significant economic losses [1, 4, 5] . The World Health Organization (WHO) released a Global Action Plan for AMR in 2015, setting out five strategic objectives to combat AMR [2] . It also highlighted the importance of a \"One Health\" approach, requiring collaboration among",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 497,
+                "end": 500
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 26,
+                "end": 29
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 138,
+                "end": 141
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 436,
+                "end": 439
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 397,
+                "end": 400
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

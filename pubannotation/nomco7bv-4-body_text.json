@@ -1,0 +1,106 @@
+{
+    "cord_uid": "nomco7bv",
+    "source_x": "PMC",
+    "pmcid": "PMC5819164",
+    "divid": "4",
+    "text": "Frequent and severe respiratory tract infections (RTIs) constitute an important morbidity factor in our society and a considerable cost burden in terms of medical treatment and time of work-loss [1, 2] . RTIs are divided into upper RTIs (URTIs) including common cold, pharyngitis, otitis, sinusitis, laryngotracheitis, epiglottitis and lower RTIs (LRTIs) including bronchitis, pneumonia and bronchiolitis [3] . Individual exposure to infectious agents and host factors such as smoking [4, 5] and vitamin D status [6, 7] are believed to contribute to observed differences in RTI risk. In addition, the role of overweight (body mass index (BMI) = 25.0-29.9 kg/m 2 ) and in particular obesity (BMI ≥ 30 kg/m 2 ) in predisposition to RTIs is increasingly discussed [8] [9] [10] [11] [12] [13] . This growing interest is driven by the rising number of overweight and obese individuals worldwide [14] and the emerging knowledge of notable immunological imbalances in association with obesity [15] . Most of the studies targeting adults explored the association of obesity with specific RTIs and their outcomes. Thus, obesity was associated with non-allergic rhinitis [8] and influenza like-illness [9] . Moreover, two population-based studies which investigated the role of obesity as risk factor for community acquired pneumonia (CAP) in the general population resulted in controversial findings [10, 11] . Two recent Danish population-based studies reported an excess of a large spectrum of RTIs including pneumonia among obese people [12, 13] . The overall aim of our study targeting the adult population in South Baden, Germany, is to identify risk factors for the susceptibility to RTIs. Here we present data on the role of obesity as contributing factor to a high RTI burden in the German society and explore effect modification by gender, sports activity and nutritional patterns.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 1487,
+                "end": 1491
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 204,
+                "end": 208
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 232,
+                "end": 236
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 730,
+                "end": 734
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 1080,
+                "end": 1084
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 50,
+                "end": 54
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 342,
+                "end": 346
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 1681,
+                "end": 1685
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 238,
+                "end": 243
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 691,
+                "end": 694
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T11",
+            "span": {
+                "begin": 638,
+                "end": 641
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T12",
+            "span": {
+                "begin": 1325,
+                "end": 1328
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

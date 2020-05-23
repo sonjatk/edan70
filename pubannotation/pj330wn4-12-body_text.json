@@ -1,0 +1,74 @@
+{
+    "cord_uid": "pj330wn4",
+    "source_x": "PMC",
+    "pmcid": "PMC3607980",
+    "divid": "12",
+    "text": "To develop software to batch-process and calculate CBF, we focused on two core components: the first was to extract the pixel intensities of particular region of interest (ROI) over time and the second to use this data for fast Fourier transformation (FFT). We used the freely available open-source ImageJ software to determine the average pixel intensity of up to 40 × 40 ROI per frame of the AVI file [20] . The ciliaFA plugin exports a dataset of up to 1,600 ROI to Excel 2007 (Microsoft; Redmond, WA, USA) where a visual basic macro is initiated to perform the FFT. The complex number is translated using the Excel function '=IMABS(range)' and the dominant frequency within the range is then established using the function '=MAX(range)'. The CBF is determined by multiplying the row number by the frequency resolution (FR) (frame rate of recording/number of frames), which we named the 'FFT Mag'. In order to more accurately predict the CBF, we averaged the sum of the FFT Mag of the peaks flanking the maximum (see Figure 1B) .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 172,
+                "end": 175
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 373,
+                "end": 376
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 462,
+                "end": 465
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 252,
+                "end": 255
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 891,
+                "end": 894
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 565,
+                "end": 568
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 973,
+                "end": 976
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 823,
+                "end": 825
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

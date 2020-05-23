@@ -1,0 +1,50 @@
+{
+    "cord_uid": "s1gwh4qg",
+    "source_x": "PMC",
+    "pmcid": "PMC2739203",
+    "divid": "9",
+    "text": "The SNAD web site has six pages including a detailed guide to SNAD with examples (\"Introduction\"), program execution page (\"Execution\"), guided access to Java and Perl APIs (\"APIs\"), frequently asked questions page (\"FAQs\"), list of the SNAD versions (\"History\"), and \"Reference\" page. SNAD execution page has three vertically arranged sections: \"Before unique ID (UID) conversion\" for uploading input, \"Names/format designer\" for choosing and refining pre-compiled name templates, and \"After UID conversion\" for accessing output (Figure 2 ).",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 123,
+                "end": 134
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 174,
+                "end": 180
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 216,
+                "end": 222
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 365,
+                "end": 368
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 493,
+                "end": 496
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

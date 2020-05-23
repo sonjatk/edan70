@@ -1,0 +1,42 @@
+{
+    "cord_uid": "iv2dcpqj",
+    "source_x": "PMC",
+    "pmcid": "PMC4576194",
+    "divid": "35",
+    "text": "In luciferase reporter assay, the reporter plasmid pFluc/IRES/Rluc [40] , a gift from Prof. Belsham, was used, which contains the firefly luciferase (Fluc) gene under the control of the T7 promoter and the renilla luciferase (Rluc) gene under the control of the CSFV IRES. The plasmid pLXSN-T7 expressing the T7 RNA polymerase [41] was also used in the assay. For the luciferase reporter assay, HEK293T cells grown on 24-well plates were cotransfected with 750 ng of pFluc/IRES/Rluc, 300 ng of pLXSN-T7 and different amounts of p3ˆFlag-NS5A or pMyc-eEF1A. After 48-h incubation, the reporter gene activity was analyzed with a dual-luciferase reporter assay system (catalog no. E1910; Promega, Madison, WI, USA) and measured with the TD-20/20 Luminometer (Turner Designs, Morgan Hill, CA, USA) according to the manufacturer's instructions. The data represent the Rluc activity normalized to the Fluc activity. Three independent experiments were carried out in duplicates.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 894,
+                "end": 898
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 150,
+                "end": 154
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 226,
+                "end": 230
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 862,
+                "end": 866
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "cord_uid": "9xelf8oh",
+    "source_x": "PMC",
+    "pmcid": "PMC7088385",
+    "divid": "33",
+    "text": "(7) (7) (7) (7) (6) (7) (7) (7) (6) (6) (5) (7) (6) (7 Our qPCR assays provide a new, lower-resource and potentially higher-throughput sampling method. The use of an endogenous IC has allowed the validation of the use of swabs to detect the target pathogens. The level of a pathogen on a swab not only depends on the pathogen abundance at the site sampled but also on the amount of sample effort. However, it is reasonable to assume that this latter factor will also dictate the amount of reference DNA harvested. Hence, the use of an endogenous IC compensates for any variability in sample effort-a potential confounding factor when using swabs to collect samples. However, caution is required when comparing swabbed material with tissue samples. Relative quantification is the ratio of the target viral DNA (SQPV/SADV) to the reference squirrel DNA (PGK). Thus, if the sampling method harvests host cells poorly in comparison to viral particles, then an artificially high viral load may be indicated. This may, in part, explain why arm swabs yielded by far the highest RQ of SQPV in grey squirrels (Fig. 2) . Unsurprisingly, arm swabs show a poorer harvest of squirrel DNA in comparison to other sample types (Online Resource S10, Fig. S10.1 ). Yet, in terms of absolute quantities, arm swabs show a proportionally higher number of DNA copies of the SQPV target gene (Online Resource S10, Fig. S10.1) . Therefore, the high levels of SQPV in arm swabs appear genuine, a conclusion supported by the infection levels in skin sampled from the same site in red squirrels (see Figs. 2 and 3) .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 13,
+                "end": 14
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 29,
+                "end": 30
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 45,
+                "end": 46
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 9,
+                "end": 10
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 1,
+                "end": 2
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 25,
+                "end": 26
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 21,
+                "end": 22
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 5,
+                "end": 6
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 53,
+                "end": 54
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 17,
+                "end": 18
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T11",
+            "span": {
+                "begin": 33,
+                "end": 34
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T12",
+            "span": {
+                "begin": 37,
+                "end": 38
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T13",
+            "span": {
+                "begin": 49,
+                "end": 50
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

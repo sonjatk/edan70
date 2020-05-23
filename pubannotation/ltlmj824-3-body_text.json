@@ -1,0 +1,26 @@
+{
+    "cord_uid": "ltlmj824",
+    "source_x": "PMC",
+    "pmcid": "PMC6831962",
+    "divid": "3",
+    "text": "Serum collected from all participants was screened for the presence of MERS-CoV IgG using enzyme-linked immunosorbent assays (ELISAs). One sample with borderline results and five samples with negative ELISA results were retested using indirect immunofluorescence The PRNT was performed as previously described. 5 The number of plaques per well were counted; reductions in plaque counts of 50% (PRNT50) and 90% (PRNT90) were calculated using the Spearman-Kärber formula. 5",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 126,
+                "end": 132
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 411,
+                "end": 417
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

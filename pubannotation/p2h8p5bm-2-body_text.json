@@ -1,0 +1,146 @@
+{
+    "cord_uid": "p2h8p5bm",
+    "source_x": "PMC",
+    "pmcid": "PMC6071234",
+    "divid": "2",
+    "text": "Tick-borne flaviviruses (TBFV), Flaviviridae family, includes many pathogens causing severe human disease, ranging from mild fever to encephalitis and hemorrhagic fever. There are more than 70 viruses in the genus flavivirus, and they are transmitted by arthropods such as mosquitoes (dengue virus (DENV), Japanese encephalitis virus (JEV) and West Nile virus (WNV), yellow fever virus (YFV), and Zika virus (ZIKV) and ticks (tick-borne encephalitis virus (TBEV), Langat virus (LGTV), Kyasanur forest disease virus (KFDV), Omsk hemorrhagic fever virus (OHFV), Powassan virus (POWV), and Louping-ill virus (LIV)) [1] [2] [3] [4] [5] . Among the TBFVs, TBEV, POWV, and LIV are encephalitic, whereas OHFV and KFDV are hemorrhagic viruses.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 25,
+                "end": 29
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 299,
+                "end": 303
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 335,
+                "end": 338
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 361,
+                "end": 364
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 387,
+                "end": 390
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 409,
+                "end": 413
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 457,
+                "end": 461
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 651,
+                "end": 655
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 478,
+                "end": 482
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 516,
+                "end": 520
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T11",
+            "span": {
+                "begin": 706,
+                "end": 710
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T12",
+            "span": {
+                "begin": 553,
+                "end": 557
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T13",
+            "span": {
+                "begin": 697,
+                "end": 701
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T14",
+            "span": {
+                "begin": 657,
+                "end": 661
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T15",
+            "span": {
+                "begin": 576,
+                "end": 580
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T16",
+            "span": {
+                "begin": 606,
+                "end": 609
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T17",
+            "span": {
+                "begin": 667,
+                "end": 670
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

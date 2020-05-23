@@ -1,0 +1,186 @@
+{
+    "cord_uid": "7gkdday2",
+    "source_x": "PMC",
+    "pmcid": "PMC5367831",
+    "divid": "41",
+    "text": "Single-plex reverse transcription real-time PCR (RT-qPCR) method could detect the presence 213 viruses in 158 (79%) children. The findings corroborate the concept of viruses being the most common causative agent of ARIs and the data are consistent with hospital-based findings in Bangladesh reported by Homaira et al. [11] and the comparable 's were also published from Laos and Egypt [35, 36] . However, many studies in other regions including Brazil, Niger, Zambia, Spain, and Mexico reported higher viral detection rates ranging from 65-87% [26, [37] [38] [39] [40] . The disparity in viral detection rates among these study findings might be due to variation in numbers of viruses that were included in the viral panel of each study group. Our viral panel included ten common respiratory viruses including respiratory syncytial virus (RSV), human rhinovirus (HRV), influenza A and B viruses, human parainfluenza viruses type 1 to 3 (HPIV1, HPIV2, HPIV3), human metapneumo virus (HMPV), human bocavirus (HBoV), and adenovirus. However, the panel did not include coronavirus which may account for a certain percentage of infections. 31.5% specimens were positive for HRV, which was predominantly detected as a viral pathogen. However, the incidence rate of HRV was also higher in asymptomatic cases (23%). Interestingly, the detection rate of adenovirus was higher in asymptomatic cases (10%) than the symptomatic specimens (7%). A study conducted by Singleton et al. also frequently identified HRV and adenoviruses in healthy children [41] , which makes it difficult to make any inference regarding the association of these two viruses with respiratory illness. RSV was the second most prevalent virus identified in 31% cases. However, unlike HRV, RSV has been reported as a recurrent cause of ARI in both children younger than five years old and adult, with incidence reaching 26% (Laos PDR), 33% (Mexico), 35% (Niger), 37% (Brazil), 51% (Germany), 57% (India), and 76% (Spain) of the investigated cases [35, 37-40, 42, 43] . RSV can cause both upper and lower respiratory tract infections. After RSV, HMPV (13%), HBoV (11%) and HPIV-3 (10.5%) came out as the third, fourth, and fifth most prevalent viral agents. However, we observed relatively low pathogen detection rates for HPIV-1, HPIV-2, influenza A, and influenza B viruses. Thus after RSV, HMPV, HBoV, and HPIVs came out as the frequent causes of hospitalization of children with respiratory illness and the findings are consistent with other published data [24] . Approximately 70-89% cases of bronchiolitis had been reported to associate with RSV infection and 3-25% with parainfluenza viruses and there werek very few cases of bronchiolitis which could be attributed to human influenza virus and adenovirus [44, 45] . Several studies have described frequencies of 3.3-19% for HMPV infections in hospitalized children with respiratory tract infections [7, [44] [45] [46] [47] , although HMPV has been known to cause severe respiratory infections in the elderly [48, 49] . The frequency of HBoV identified in this study (11%) was also comparable with HBoV detection rates in Spain (9.9%) and Vietnam (7.2%) [50, 51] .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 2608,
+                "end": 2611
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 2348,
+                "end": 2351
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 2030,
+                "end": 2033
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 1751,
+                "end": 1754
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 839,
+                "end": 842
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 2101,
+                "end": 2104
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 1665,
+                "end": 1668
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 1259,
+                "end": 1262
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 1746,
+                "end": 1749
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 1497,
+                "end": 1500
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T11",
+            "span": {
+                "begin": 863,
+                "end": 866
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T12",
+            "span": {
+                "begin": 1169,
+                "end": 1172
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T13",
+            "span": {
+                "begin": 2106,
+                "end": 2110
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T14",
+            "span": {
+                "begin": 2842,
+                "end": 2846
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T15",
+            "span": {
+                "begin": 2353,
+                "end": 2357
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T16",
+            "span": {
+                "begin": 2952,
+                "end": 2956
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T17",
+            "span": {
+                "begin": 983,
+                "end": 987
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T18",
+            "span": {
+                "begin": 3115,
+                "end": 3119
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T19",
+            "span": {
+                "begin": 2118,
+                "end": 2122
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T20",
+            "span": {
+                "begin": 3054,
+                "end": 3058
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T21",
+            "span": {
+                "begin": 1007,
+                "end": 1011
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T22",
+            "span": {
+                "begin": 2359,
+                "end": 2363
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

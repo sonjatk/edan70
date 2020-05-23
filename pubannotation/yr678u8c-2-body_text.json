@@ -1,0 +1,74 @@
+{
+    "cord_uid": "yr678u8c",
+    "source_x": "PMC",
+    "pmcid": "PMC3528273",
+    "divid": "2",
+    "text": "Coronaviruses are single stranded positive sense RNA viruses belonging to the order Nidovirales, and are known to infect a variety of hosts. Several human coronaviruses have been identified, causing mainly mild respiratory infections, with the exception of severe acute respiratory syndrome coronavirus (SARS-CoV). In addition, coronavirus infections have an economic impact on livestock industries worldwide. The avian coronavirus, infectious bronchitis virus (IBV), causes infectious OPEN ACCESS bronchitis (IB), a mild respiratory infection, but as a consequence is responsible for serious effects on the global poultry industries due to poor weight gain in broiler chickens as well as reduced egg production and egg quality in layers. In addition, some strains of IBV are nephropathogenic whilst others result in severe pathology in the reproductive organs. Bovine coronavirus (BCoV) causes respiratory infection and diarrhoea in cattle, transmissible gastroenteritis virus (TGEV) and porcine epidemic diarrhoea virus (PEDV) cause diarrhoea in pigs and porcine haemagglutinating encephalomyelitis virus (PHEV) causes vomiting and wasting disease in pigs.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 304,
+                "end": 312
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 462,
+                "end": 465
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 768,
+                "end": 771
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 510,
+                "end": 512
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 882,
+                "end": 886
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 979,
+                "end": 983
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 1023,
+                "end": 1027
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 1108,
+                "end": 1112
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

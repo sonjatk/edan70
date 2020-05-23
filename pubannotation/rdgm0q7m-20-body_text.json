@@ -1,0 +1,130 @@
+{
+    "cord_uid": "rdgm0q7m",
+    "source_x": "PMC",
+    "pmcid": "PMC4937337",
+    "divid": "20",
+    "text": "PCBP family members have three KH domains, an adjacent pair (KH1 and KH2) close to the N-terminus and a third (KH3) towards the C-terminus, separated from KH1 and KH2 by an intervening sequence of variable length ( Figure  3D ). To test the involvement of individual KH domains in PRF, amino acid substitutions (to GDDG) were introduced within the conserved, hallmark GxxG loop in each domain, which forms part of the RNA binding domain. These mutations have been shown previously to abolish RNA bind- ing activity of the individual domain without compromising its stability (37) . As shown in Figure 5A and B, mutation of the KH2 domain of PCBP1 or PCBP2 had little, if any, effect on frameshifting, whereas the KH3 domain mutation essentially abolished trans-activation. The KH1 domain mutation had a more varied phenotype. With PCBP1, frameshift-stimulation was greatly reduced, but for PCBP2, −2 PRF was diminished four-fold, but full activity in −1 PRF was retained. Further, whilst addition of PCBP1 KH1m or PCBP1 KH3m alone was unable to stimulate PRF, when (A) EMSA analysis of binding of nsp1␤, PCBP1 or PCBP2 (alone or in combination) to a short (58 nt) 32 P-labelled in vitro transcript containing the PRRSV PRF signal. After incubation at 30 • C for 10 min, reactions were loaded onto a 4% non-denaturing polyacrylamide gel and, following electrophoresis, the gel was fixed, dried and subjected to autoradiography. Numbers below lanes show fold molar excess of protein(s) with respect to the radiolabelled RNA (10 nM). In lanes BSB, DB and W, RNA was incubated alone with band-shift buffer, protein dilution buffer or water, respectively (see 'Materials and Methods' section). (B) The composition of RNA-protein complexes was investigated by supershift assay. Complexes were prepared with 10 nM RNA and a 50-fold molar excess of nsp1␤ (N) and PCBP2 (P2) and subjected to EMSA directly (N, P2, NP2), or after incubation with monoclonal (mono) or polyclonal (poly) antisera raised against PCBP2 (␣P2, mono) or nsp1␤ (␣N, mono or poly). As controls, the radiolabelled RNA probe was incubated with either DB, the ␣P2 mono or the ␣N poly. added together, a partial restoration of both −2 and −1 PRF (to about 20% of the WT value) was observed (Figure 5C ). Note that in all assays, frameshift-stimulation remained dependent upon addition of nsp1␤ ( Figure 5D ).",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 1848,
+                "end": 1849
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 1898,
+                "end": 1899
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 2028,
+                "end": 2029
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 2138,
+                "end": 2139
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 1862,
+                "end": 1864
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 1901,
+                "end": 1903
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 2122,
+                "end": 2124
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 2007,
+                "end": 2009
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 1948,
+                "end": 1952
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 2125,
+                "end": 2129
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T11",
+            "span": {
+                "begin": 2031,
+                "end": 2035
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T12",
+            "span": {
+                "begin": 2011,
+                "end": 2015
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T13",
+            "span": {
+                "begin": 2140,
+                "end": 2144
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T14",
+            "span": {
+                "begin": 1969,
+                "end": 1973
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T15",
+            "span": {
+                "begin": 2039,
+                "end": 2043
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

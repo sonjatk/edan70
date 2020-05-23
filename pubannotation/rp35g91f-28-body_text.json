@@ -1,0 +1,42 @@
+{
+    "cord_uid": "rp35g91f",
+    "source_x": "PMC",
+    "pmcid": "PMC5592927",
+    "divid": "28",
+    "text": "However, transcriptional targets apart from Nostrin itself have not yet been found. LRP2 (low density lipoprotein receptor-related protein 2) is a critical component of the sonic hedgehog (SHH) signaling pathway (Christ et al. 2012) . There is some evidence that LRP2 can shed its intracellular domain, which then shuttles to the nucleus where it may interact with as-yet-unidentified transcription factors (Li et al. 2008 ). However, a role for LRP2 has not yet been identified in either heart or lung. The Chr2: 77.5 6 1 Mb region contained six genes, only two of which were expressed in adult lung (Ttn and Ccdc141; Table 3 ). Of these, titin (Ttn) was a likely candidate modifier based on its role as a key integrator of myocyte signaling pathways (Linke 2008; Miller et al. 2004) . Therefore, Rab23, Zfp451, Nostrin, Lrp2, and Ttn were analyzed further.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 189,
+                "end": 192
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 602,
+                "end": 605
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 647,
+                "end": 650
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 832,
+                "end": 835
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

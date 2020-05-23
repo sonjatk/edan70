@@ -1,0 +1,42 @@
+{
+    "cord_uid": "iv2dcpqj",
+    "source_x": "PMC",
+    "pmcid": "PMC4576194",
+    "divid": "10",
+    "text": "To determine the effects of eEF1A on CSFV replication, recombinant lentiviruses expressing short hairpin RNA (shRNA) against eEF1A (sheEF1A) or non-targeting negative control shRNA (shNC) ",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 110,
+                "end": 115
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 175,
+                "end": 180
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 132,
+                "end": 139
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 182,
+                "end": 186
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

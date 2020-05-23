@@ -1,0 +1,26 @@
+{
+    "cord_uid": "iv2dcpqj",
+    "source_x": "PMC",
+    "pmcid": "PMC4576194",
+    "divid": "31",
+    "text": "The cells were incubated with goat anti-mouse IgG (whole molecule)-fluorescein isothiocyanate (FITC) antibody (1:100) (catalog no. F2012; Sigma-Aldrich) and goat anti-rabbit IgG (whole molecule)-tetramethyl rhodamine isocyanate (TRITC) antibody (1:100) (catalog no. T6778; Sigma-Aldrich). Subsequently, the cells were stained with 4,6-diamidino-2-phenylindole (DAPI) (1:1000) (catalog no. D8417; Sigma-Aldrich) for 15 min and examined using a Leica SP2 confocal system (Leica Microsystems, GmbH, Wetzlar, Germany).",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 95,
+                "end": 99
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 361,
+                "end": 365
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

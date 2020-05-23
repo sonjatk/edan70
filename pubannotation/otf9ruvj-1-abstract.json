@@ -1,0 +1,74 @@
+{
+    "cord_uid": "otf9ruvj",
+    "source_x": "PMC",
+    "pmcid": "PMC5827994",
+    "divid": "1",
+    "text": "Background: Acute respiratory distress syndrome (ARDS) is associated with high mortality rates. ARDS patients suffer from severe hypoxemia, and extracorporeal membrane oxygenation (ECMO) therapy may be necessary to ensure oxygenation. ARDS has various etiologies, including trauma, ischemia-reperfusion injury or infections of various origins, and the associated immunological responses may vary. To support the immunological response in this patient collective, we used intravenous IgM immunoglobulin therapy to enhance the likelihood of pulmonary recovery. Methods: ARDS patients admitted to the intensive care unit (ICU) who were placed on ECMO and treated with (IVIG group; n = 29) or without (control group; n = 28) intravenous IgM-enriched immunoglobulins for 3 days in the initial stages of ARDS were analyzed retrospectively.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 798,
+                "end": 802
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 49,
+                "end": 53
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 96,
+                "end": 100
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 235,
+                "end": 239
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 568,
+                "end": 572
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 643,
+                "end": 647
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 181,
+                "end": 185
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 619,
+                "end": 622
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

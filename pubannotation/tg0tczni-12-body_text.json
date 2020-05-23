@@ -1,0 +1,26 @@
+{
+    "cord_uid": "tg0tczni",
+    "source_x": "PMC",
+    "pmcid": "PMC3079669",
+    "divid": "12",
+    "text": "To investigate the pattern of relative synonymous codon usage (RSCU) without the influence of amino acid composition among all polioviruses samples, the RSCU values of codons in each ORF of polioviruses were calculated according to the formula of previous reports [22, 23] .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 153,
+                "end": 157
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 63,
+                "end": 67
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

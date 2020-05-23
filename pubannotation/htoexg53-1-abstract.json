@@ -1,0 +1,82 @@
+{
+    "cord_uid": "htoexg53",
+    "source_x": "PMC",
+    "pmcid": "PMC6316859",
+    "divid": "1",
+    "text": "Middle East respiratory syndrome coronavirus (MERS-CoV), a novel infectious agent causing severe respiratory disease and death in humans, was first described in 2012. Antibodies directed against the MERS-CoV spike (S) protein are thought to play a major role in controlling MERS-CoV infection and in mediating vaccine-induced protective immunity. In contrast, relatively little is known about the role of T cell responses and the antigenic targets of MERS-CoV that are recognized by CD8+ T cells. In this study, the highly conserved MERS-CoV nucleocapsid (N) protein served as a target immunogen to elicit MERS-CoV-specific cellular immune responses. Modified Vaccinia virus Ankara (MVA), a safety-tested strain of vaccinia virus for preclinical and clinical vaccine research, was used for generating MVA-MERS-N expressing recombinant N protein.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 199,
+                "end": 207
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 451,
+                "end": 459
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 46,
+                "end": 54
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 274,
+                "end": 282
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 533,
+                "end": 541
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 215,
+                "end": 216
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 835,
+                "end": 836
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 556,
+                "end": 557
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 683,
+                "end": 686
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

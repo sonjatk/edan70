@@ -1,0 +1,26 @@
+{
+    "cord_uid": "89pf7c5i",
+    "source_x": "PMC",
+    "pmcid": "PMC4462189",
+    "divid": "8",
+    "text": "Species, strains, isolates and genetic variants of Leishmania spp. found in cats have been characterized by means of laboratory procedures including electrophoresis of isoenzymes upon parasite cultivation, monoclonal antibodies and molecular methods. The latter mainly comprise conventional and real time polymerase chain reaction (PCR) combined with DNA sequence analysis, restriction fragment length polymorphism (RFLP) or hybridization of amplified products with specific probes (Table 1) .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 332,
+                "end": 335
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 416,
+                "end": 420
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

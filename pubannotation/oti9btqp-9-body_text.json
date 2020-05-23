@@ -1,0 +1,50 @@
+{
+    "cord_uid": "oti9btqp",
+    "source_x": "PMC",
+    "pmcid": "PMC5707885",
+    "divid": "9",
+    "text": "Generation of a ZIKV recombinant envelope protein At the onset of these studies, there were no available commercial reagents to evaluate specific anti-ZIKV immune responses. Therefore, by necessity, recombinant ZIKV-Env protein (rZIKV-E) was generated to support the assays performed in this study. To generate this reagent, a consensus ZIKV-Env sequence based on the ZIKV-prME vaccine consensus antigen was cloned into a pET30a Escherichia coli expression vector (Supplementary Figure S2A ). The rZIKV-E antigen was produced in E. coli cultures, purified using nickel column chromatography and analysed using SDS-PAGE, which showed overexpressed proteins of the predicted size in lysate from rZIKV-E transfected bacteria that could be detected by western analysis using an anti-His tag antibody (Supplementary Figure S2B ). The sera from mice immunised with the ZIKV-prME vaccine bound to rZIKV-Env that was used as a capture antigen in an ELISA (enzyme-linked immunosorbent assay; Supplementary Figure S2C ). A commercial antibody (designated panflavivirus) that reacts to the Env protein of multiple flaviviruses, also bound to rZIKV-E. Western analysis demonstrated that immune sera from ZIKV-prME immunised mice specifically recognised rZIKV-E (Supplementary Figure S2D) . These data indicate that the generated rZIKV-E reacted specifically with immune sera from ZIKV-prME vaccinated mice, thus this recombinant protein was used for further immunogenicity studies.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 497,
+                "end": 504
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 693,
+                "end": 700
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 1317,
+                "end": 1324
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 229,
+                "end": 236
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 1241,
+                "end": 1248
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

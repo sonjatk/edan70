@@ -1,0 +1,26 @@
+{
+    "cord_uid": "ux38431n",
+    "source_x": "PMC",
+    "pmcid": "PMC4391708",
+    "divid": "1",
+    "text": "Human adenoviruses (HAdVs) have been recognised as pathogens that cause a broad spectrum of diseases. The studies on HAdV infection among children with severe acute respiratory infection (SARI) are limited.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 20,
+                "end": 25
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 188,
+                "end": 192
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

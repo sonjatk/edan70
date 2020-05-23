@@ -1,0 +1,26 @@
+{
+    "cord_uid": "56fc398e",
+    "source_x": "PMC",
+    "pmcid": "PMC4455802",
+    "divid": "16",
+    "text": "The final node sampling scheme considered is targeted node sampling (TNS). In TNS, we sample specific nodes based on certain criteria. In this case, we chose the weighted-degree of the node. All nodes having a weighted-degree of at least x are sampled and their neighbours are captured (electronic supplementary material, figure S1). A graphical depiction of the three node sampling network schemes is shown in the electronic supplementary material, figure S2 .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 78,
+                "end": 81
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 69,
+                "end": 72
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "cord_uid": "izxhiusf",
+    "source_x": "PMC",
+    "pmcid": "PMC3420249",
+    "divid": "27",
+    "text": "Considering only significant bacterial BAL-cultures, Haemophilus influenzae (H. influenzae), isolated from 10 of 33 (30.3 %) children, was the predominant bacteria found, followed by Streptococcus pneumoniae (S. pneumoniae) and Moraxella catarrhalis (M. catarrhalis) ( Table 2 ). Bacterial co-infection was found in 5 of 33 (15.2 %) cases, including H. influenzae in 4 of these; twice with S. pneumoniae, once with M. catarrhalis and once with both S. pneumoniae and M. catarrhalis, and 1 co-infection with Staphylococcus aureus and Serratia marcescens ( Table 2) .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 350,
+                "end": 363
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 77,
+                "end": 90
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 390,
+                "end": 403
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 449,
+                "end": 462
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 209,
+                "end": 222
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 415,
+                "end": 429
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 467,
+                "end": 481
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 251,
+                "end": 265
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

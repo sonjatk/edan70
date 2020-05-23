@@ -1,0 +1,18 @@
+{
+    "cord_uid": "i8cgsd4x",
+    "source_x": "PMC",
+    "pmcid": "PMC4556628",
+    "divid": "40",
+    "text": "Standard error of the mean (SEM) was calculated and data analyzed using the non-paired Student's t-test for single mean comparisons.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 28,
+                "end": 31
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "cord_uid": "nomfciyu",
+    "source_x": "PMC",
+    "pmcid": "PMC7080179",
+    "divid": "11",
+    "text": "A small number of epithelial, pneumocytes, lymphoid aggregates and inflammatory cells of submucosal glands were positive for MERS spike protein in nonhuman primates (NHPs). Whereas, MERS spike antigen were positive in epithelial layers of submucosal bronchial glands, lungs of NHPs and in some cells in BALTs [53] . Dual Immunohistochemistry method was applied using monoclonal antibody against MERS spike protein and CD26, the staining showed that MERS was found in CD26 positive cells but were negative in NHPs [53] .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 508,
+                "end": 512
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 166,
+                "end": 170
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 277,
+                "end": 281
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "cord_uid": "7bgerq3r",
+    "source_x": "PMC",
+    "pmcid": "PMC5968208",
+    "divid": "3",
+    "text": "The rates of asymptomatic infection with Middle East Respiratory Syndrome (MERS) coronavirus vary. A serologic study was conducted to determine the asymptomatic MERS infection rate in healthcare workers and non-healthcare workers by exposure status.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 161,
+                "end": 165
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 75,
+                "end": 79
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

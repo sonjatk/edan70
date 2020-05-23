@@ -1,0 +1,18 @@
+{
+    "cord_uid": "btuoin6d",
+    "source_x": "PMC",
+    "pmcid": "PMC7033854",
+    "divid": "13",
+    "text": "The levels of infection markers, such as C-reactive protein (CRP) and procalcitonin showed no difference between the two groups. In addition, total bilirubin and creatinine levels showed no significant difference between the two groups.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 61,
+                "end": 64
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "cord_uid": "m6abyuvx",
+    "source_x": "PMC",
+    "pmcid": "PMC3524174",
+    "divid": "2",
+    "text": "Hepatitis C virus (HCV) is a major public health problem; approximately 170 million people are infected with HCV worldwide [1] . HCV causes persistent infections that can lead to chronic liver diseases such as chronic hepatitis, liver cirrhosis, and hepatocellular carcinoma (HCC) [2] . Antiviral drugs are not highly effective in individuals with a chronic infection; furthermore, an effective vaccine against HVC has not been developed. A convenient animal model of HCV infection will greatly facilitate the development of an effective HCV vaccine.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 19,
+                "end": 22
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 109,
+                "end": 112
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 538,
+                "end": 541
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 468,
+                "end": 471
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 129,
+                "end": 132
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 276,
+                "end": 279
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

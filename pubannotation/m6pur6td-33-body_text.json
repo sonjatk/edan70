@@ -1,0 +1,34 @@
+{
+    "cord_uid": "m6pur6td",
+    "source_x": "PMC",
+    "pmcid": "PMC6370191",
+    "divid": "33",
+    "text": "In the newly established LMDI method, the population effect (ΔC p-effect ), the affluence effect (ΔC g-effect ), the energy intensity effect (ΔC e-effect ), the economic structure effect (ΔC s-effect ), and the carbon intensity effect (ΔC f-effect ). In addition, social and economic factors such as urbanization (ΔC UR-effect ), family income in urban and rural households (ΔC AI-effect ) were analyzed to further explain the changes of carbon emissions at the city level.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 142,
+                "end": 153
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 188,
+                "end": 199
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 236,
+                "end": 247
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

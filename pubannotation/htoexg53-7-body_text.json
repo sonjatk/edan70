@@ -1,0 +1,66 @@
+{
+    "cord_uid": "htoexg53",
+    "source_x": "PMC",
+    "pmcid": "PMC6316859",
+    "divid": "7",
+    "text": "Primary chicken embryo fibroblasts (CEF) were prepared from 10-day-old chicken embryos (SPF eggs, VALO, Cuxhaven, Germany) and maintained in Minimum Essential Medium Eagle (MEM) (SIGMA-ALDRICH, Taufkirchen, Germany) containing 10% heat-inactivated fetal bovine serum (FBS) (SIGMA-ALDRICH, Taufkirchen, Germany), 1% Penicillin-Streptomycin (SIGMA-ALDRICH, Taufkirchen, Germany), and 1% MEM non-essential amino acid solution (SIGMA-ALDRICH, Taufkirchen, Germany). Human HeLa (ATCC CCL-2) cells were maintained in MEM containing 10% FBS and 1% Penicillin-Streptomycin. Human HaCat (CLS Cell Lines Service GmbH, Eppelheim, Germany) cells were cultured in Dulbecco's Modified Eagle's Medium (SIGMA-ALDRICH, Taufkirchen, Germany) supplemented with 10% heat-inactivated FBS, 2% HEPES-solution (SIGMA-ALDRICH, Taufkirchen, Germany) and antibiotics as described above. All cells were maintained at 37 • C and 5% CO 2 atmosphere.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 36,
+                "end": 39
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 173,
+                "end": 176
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 385,
+                "end": 388
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 511,
+                "end": 514
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 530,
+                "end": 533
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 763,
+                "end": 766
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 268,
+                "end": 271
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

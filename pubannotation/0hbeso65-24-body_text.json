@@ -1,0 +1,34 @@
+{
+    "cord_uid": "0hbeso65",
+    "source_x": "PMC",
+    "pmcid": "PMC3655463",
+    "divid": "24",
+    "text": "Several cell surface molecules of the target cells have been identified to interact with HCV, including CD81, the LDL receptor, highly sulfated heparan sulfate (HS), SR-BI, and claudin-1 (CLDN1), occludin (OCLN).",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 161,
+                "end": 163
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 188,
+                "end": 193
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 206,
+                "end": 210
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

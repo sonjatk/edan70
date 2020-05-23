@@ -1,0 +1,58 @@
+{
+    "cord_uid": "klnsklr3",
+    "source_x": "PMC",
+    "pmcid": "PMC2699471",
+    "divid": "2",
+    "text": "Principal Findings: A known inducer of early lymphocyte activation is IFNa, a cytokine strongly induced by LDV infection. Neutralization of IFNa in the plasma from infected mice ablated its ability to activate lymphocytes in vitro. Since the primary source of virus-induced IFNa in vivo is often plasmacytoid dendritic cells (pDC's), we depleted these cells prior to LDV infection and tested for lymphocyte activation. Depletion of pDC's in vivo eradicated both the LDV-induced IFNa response and lymphocyte activation. A primary receptor in pDC's for single stranded RNA viruses such as LDV is the toll-like receptor 7 (TLR7) pattern recognition receptor. Infection of TLR7-knockout mice revealed that both the IFNa response and lymphocyte activation were dependent on TLR7 signaling in vivo. Interestingly, virus levels in both TLR7 knockout mice and pDC-depleted mice were indistinguishable from controls indicating that LDV is largely resistant to the systemic IFNa response.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 326,
+                "end": 331
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 432,
+                "end": 437
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 541,
+                "end": 546
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 829,
+                "end": 833
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 620,
+                "end": 624
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 769,
+                "end": 773
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

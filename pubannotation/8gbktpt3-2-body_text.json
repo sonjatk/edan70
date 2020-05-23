@@ -1,0 +1,50 @@
+{
+    "cord_uid": "8gbktpt3",
+    "source_x": "PMC",
+    "pmcid": "PMC6950618",
+    "divid": "2",
+    "text": "Feline panleukopenia (FPL) is a highly contagious and often fatal disease characterised by acute severe enteritis, severe dehydration and sepsis due to lymphoid depletion and pancytopenia [1] . FPL is usually associated with infection by feline parvovirus (FPV), a member of the genus Protoparvovirus (formerly Feline panleukopenia virus). Protoparovirus is one of eight genera of vertebrate viruses within the subfamily Parvovirinae of the family Parvoviridae. Collectively, FPV and canine parvovirus (CPV), along with associated variants found in various carnivore species such as mink and raccoons, constitute the species Carnivore protoparvovirus 1 [2] .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 194,
+                "end": 197
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 22,
+                "end": 25
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 476,
+                "end": 479
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 257,
+                "end": 260
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 503,
+                "end": 506
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

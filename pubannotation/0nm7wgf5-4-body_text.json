@@ -1,0 +1,26 @@
+{
+    "cord_uid": "0nm7wgf5",
+    "source_x": "PMC",
+    "pmcid": "PMC5075077",
+    "divid": "4",
+    "text": "Quantitative real-time PCR (qRT-PCR). Total RNA was isolated from cells by using either TRIzol or a Quick-RNA MicroPrep kit (Zymo Research). DENV RNA levels were estimated as described previously, using TaqMan one-step real-time PCR (Applied Biosystems) (10, 11) . The amount of DENV negative-strand RNA was measured by cDNA synthesis with a forward primer followed by real-time PCR using a PrimeScript RT reagent kit with a genomic DNA (gDNA) eraser (TaKaRa). A ␤-actin primer-probe mix (Applied Biosystems) was used for normalization. Fold changes were calculated by the ⌬⌬C T method.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 28,
+                "end": 35
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 438,
+                "end": 442
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "cord_uid": "0hbeso65",
+    "source_x": "PMC",
+    "pmcid": "PMC3655463",
+    "divid": "2",
+    "text": "Hepatitis C virus (HCV) was a member of Flaviviridae family virus, and seven major genotypes (Genotype 1∼7a) have been identified with distinct regional distribution patterns. HCV is a major cause of chronic hepatitis worldwide, and end-stage liver disease caused by HCV has increasingly become the leading indication for liver transplantation (LT). It has been well known that HCV reinfection following LT examined by HCV RNA detection using the polymerase chain reaction occurs almost universally [1] . The natural history of HCV reinfection is substantially changed after LT with accelerated rate of cirrhosis recurrence of 8-44% in 5-7 years [2] . It has been pointed out that HCV reinfects the liver graft at time of reperfusion intraoperatively [3] . The virus source is attributed to the blood itself with a high probability [4] .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 378,
+                "end": 381
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 419,
+                "end": 422
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 19,
+                "end": 22
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 681,
+                "end": 684
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 267,
+                "end": 270
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 176,
+                "end": 179
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 528,
+                "end": 531
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 575,
+                "end": 577
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 404,
+                "end": 406
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 345,
+                "end": 347
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

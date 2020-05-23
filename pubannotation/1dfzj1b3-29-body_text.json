@@ -1,0 +1,26 @@
+{
+    "cord_uid": "1dfzj1b3",
+    "source_x": "PMC",
+    "pmcid": "PMC6259136",
+    "divid": "29",
+    "text": "The antioxidant, antimicrobial and antispasmodic activities of Origanum acutidens (Hand.-Mazz) Ietswaart from the Turkish flora were evaluated [50] . Carvacrol was the major component of the essential oil. This oil presented antioxidant activity, but inferior to that of the reference substance used by the authors (BHT). In spite of the high percentage of carvacrol present in the oil, the inhibition percentage only reached 65%, in contrast to the 100% of BHT.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 458,
+                "end": 461
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 316,
+                "end": 319
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

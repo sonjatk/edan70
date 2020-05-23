@@ -1,0 +1,18 @@
+{
+    "cord_uid": "u14tj0so",
+    "source_x": "PMC",
+    "pmcid": "PMC4064103",
+    "divid": "26",
+    "text": "Following common practice [36, 58] , we measure the accuracy of a predicted RNA secondary structure relative to a reference secondary structure by F-measure, which is the harmonic mean of sensitivity and positive predictive value (PPV ). We define these values as follows:",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 231,
+                "end": 234
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

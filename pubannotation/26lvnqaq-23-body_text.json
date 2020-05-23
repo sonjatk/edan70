@@ -1,0 +1,34 @@
+{
+    "cord_uid": "26lvnqaq",
+    "source_x": "PMC",
+    "pmcid": "PMC6116506",
+    "divid": "23",
+    "text": "Titration of infectivity was carried out by a standard tissue culture infectious dose 50% (TCID 50 ) assay using MDCK cells. The presence of viral infection was determined at 72 h pi, by optical assessment of cytopathic effects coupled with a hemagglutination assay (HA). The titer was determined by the Reed and Muench method [24] . The limit of detection was of 20 TCID 50 /0.1 g of tissue.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 367,
+                "end": 374
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 91,
+                "end": 98
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 267,
+                "end": 269
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

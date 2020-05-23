@@ -1,0 +1,42 @@
+{
+    "cord_uid": "zgywyubf",
+    "source_x": "PMC",
+    "pmcid": "PMC3506457",
+    "divid": "24",
+    "text": "Cloning of ORF2 and Δ35 ORF2 in pSGI has been described earlier [15] . Flag tagged IKKβ [12] , IL-2 receptor α promoter containing NF-κB response element cloned upstream of the chloramphenicol acetyl ransferase (CAT) coding sequence (NF-κB CAT) [10] , Wildtype, ΔF βTRCP cDNA in pCDNA3.1 [20] and pSGI c-myc [21] constructs were gifts from Drs. Rene Bernards, Ranjan Sen, Richard Benarous and Vijay Kumar, respectively. All DNA constructs used for mammalian cell transfection were purified by cesium chloride gradient centrifugation [22] . All antibodies were purchased from Santa Cruz Biotechnology Inc. (California, USA); TPA and MG-132 were purchased from Calbiochem Chemicals (California, USA). LPS was purchased from Sigma-Aldrich (USA).",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 212,
+                "end": 215
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 240,
+                "end": 243
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 606,
+                "end": 621
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 681,
+                "end": 696
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

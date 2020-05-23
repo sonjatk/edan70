@@ -1,0 +1,58 @@
+{
+    "cord_uid": "0oq4kkn5",
+    "source_x": "PMC",
+    "pmcid": "PMC5052702",
+    "divid": "19",
+    "text": "2 (66 mg, 0.34 mmol, 1 eq) was dissolved in pyridine (3 ml) 1, 154.2, 147.1, 135.5, 133.1, 80.6, 61.8, 57.7, 35 .0 (2), 28.8 (2) 6, 164.2, 161.8, 135.6, 135.3, 128.3, 85.9, 61.5, 58.1, 35.6 (2) , 28.9 (2), 25.1 (2), 14.4; mp: 148-149°C.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 191,
+                "end": 192
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 202,
+                "end": 203
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 0,
+                "end": 1
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 116,
+                "end": 117
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 212,
+                "end": 213
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 126,
+                "end": 127
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

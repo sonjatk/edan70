@@ -1,0 +1,122 @@
+{
+    "cord_uid": "m6abyuvx",
+    "source_x": "PMC",
+    "pmcid": "PMC3524174",
+    "divid": "1",
+    "text": "Chronic hepatitis C, which is caused by infection with the hepatitis C virus (HCV), is a global health problem. Using a mouse model of hepatitis C, we examined the therapeutic effects of a recombinant vaccinia virus (rVV) that encodes an HCV protein. We generated immunocompetent mice that each expressed multiple HCV proteins via a Cre/loxP switching system and established several distinct attenuated rVV strains. The HCV core protein was expressed consistently in the liver after polyinosinic acid-polycytidylic acid injection, and these mice showed chronic hepatitis C-related pathological findings (hepatocyte abnormalities, accumulation of glycogen, steatosis), liver fibrosis, and hepatocellular carcinoma. Immunization with one rVV strain (rVV-N25), which encoded nonstructural HCV proteins, suppressed serum inflammatory cytokine levels and alleviated the symptoms of pathological chronic hepatitis C within 7 days after injection. Furthermore, HCV protein levels in liver tissue also decreased in a CD4 and CD8 T-cell-dependent manner. Consistent with these results, we showed that rVV-N25 immunization induced a robust CD8 T-cell immune response that was specific to the HCV nonstructural protein 2. We also demonstrated that the onset of chronic hepatitis in CN2-29 (+/2) /MxCre (+/2) mice was mainly attributable to inflammatory cytokines, (tumor necrosis factor) TNF-a and (interleukin) IL-6. Thus, our generated mice model should be useful for further investigation of the immunological processes associated with persistent expression of HCV proteins because these mice had not developed immune tolerance to the HCV antigen. In addition, we propose that rVV-N25 could be developed as an effective therapeutic vaccine.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 786,
+                "end": 789
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 420,
+                "end": 423
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 78,
+                "end": 81
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 238,
+                "end": 241
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 314,
+                "end": 317
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 954,
+                "end": 957
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 1182,
+                "end": 1185
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 1627,
+                "end": 1630
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 1553,
+                "end": 1556
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 736,
+                "end": 739
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T11",
+            "span": {
+                "begin": 217,
+                "end": 220
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T12",
+            "span": {
+                "begin": 403,
+                "end": 406
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T13",
+            "span": {
+                "begin": 1279,
+                "end": 1282
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T14",
+            "span": {
+                "begin": 1292,
+                "end": 1295
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

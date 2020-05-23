@@ -1,0 +1,202 @@
+{
+    "cord_uid": "m6abyuvx",
+    "source_x": "PMC",
+    "pmcid": "PMC3524174",
+    "divid": "27",
+    "text": "In addition, we demonstrated that rVV-N25 treatment in the absence of CD4 and CD8 T cells had no effect on HCV clearance. This important observation indicated that rVV-N25-induced HCV clearance was mediated by CD4 and CD8 T cells. Many studies have shown that spontaneous viral clearance during acute HCV infection is characterized by a vigorous, broadly reactive CD4 and CD8 T-cell response. [8, 22] HCV clearance and hepatocellular cytotoxicity are both mediated by CD8 antigenspecific (cytotoxic T lymphocyte) CTLs [23] . Consistent with these observations, rVV-N25 treatment effectively induced the accumulation of NS2-specific CD8 T cells, which express high levels of Figure 6 . Immunization with rVV-N25 suppresses serum inflammatory cytokine levels. (A) Daily cytokine levels in the serum of CN2-29 (+/ 2) /MxCre (+/2) mice during the week following immunization with LC16m8, rVV-CN2, rVV-N25, or rVV-CN5. Values represent means 6 SD (n = 3) and reflect the concentrations relative to those measured on day 0. The broken lines indicate the baseline data from wild-type mice. In all cases, n = 6 mice per group. (B) Liver sections from CN2-29 (+/2) /MxCre (+/2) and CN2-29 (+/2) /MxCre (2/2) mice. (C) Histology activity index (HAI) scores of liver samples taken from CN2-29 (+/2) /MxCre (+/2), or CN2-29 (+/2) /MxCre (2/2) mice. (D) Liver sections from CN2-29 (+/2) /MxCre (+/2) mice in which TNF-a was neutralized and the IL-6 receptor was blocked. The scale bars indicate 50 mm. (E) HAI scores of liver samples taken from CN2-29 (+/2) /MxCre (+/2) in which TNF-a was neutralized and the IL-6 receptor was blocked. Tg and non-Tg indicate CN2-29 (+/2) /MxCre (+/2) and CN2-29 (+/2) /MxCre (2/2) , respectively. (F) Macrophages were the main producers of TNF-a and IL-6 in CN2-29 (+/2) /MxCre (+/2) mice following poly(I:C) injection. (G) Immunization with rVV-N25 reduced the number of macrophages in liver samples from CN2-29 (+/2) /MxCre (+/2) mice and suppressed TNF-a and IL-6 production from macrophages ( Figure 6G ). Significant relationships are indicated by a P-value. doi:10.1371/journal.pone.0051656.g006",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 808,
+                "end": 812
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 822,
+                "end": 825
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 1283,
+                "end": 1286
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 1164,
+                "end": 1167
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 1296,
+                "end": 1299
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 1382,
+                "end": 1385
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 1655,
+                "end": 1658
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 1788,
+                "end": 1791
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 1801,
+                "end": 1804
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 1181,
+                "end": 1184
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T11",
+            "span": {
+                "begin": 1685,
+                "end": 1688
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T12",
+            "span": {
+                "begin": 1949,
+                "end": 1952
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T13",
+            "span": {
+                "begin": 1553,
+                "end": 1556
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T14",
+            "span": {
+                "begin": 1151,
+                "end": 1154
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T15",
+            "span": {
+                "begin": 1540,
+                "end": 1543
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T16",
+            "span": {
+                "begin": 1668,
+                "end": 1671
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T17",
+            "span": {
+                "begin": 1936,
+                "end": 1939
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T18",
+            "span": {
+                "begin": 1369,
+                "end": 1372
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T19",
+            "span": {
+                "begin": 1313,
+                "end": 1316
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T20",
+            "span": {
+                "begin": 1326,
+                "end": 1329
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T21",
+            "span": {
+                "begin": 1194,
+                "end": 1197
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T22",
+            "span": {
+                "begin": 1698,
+                "end": 1701
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T23",
+            "span": {
+                "begin": 1493,
+                "end": 1496
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T24",
+            "span": {
+                "begin": 1235,
+                "end": 1238
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

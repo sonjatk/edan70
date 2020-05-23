@@ -1,0 +1,58 @@
+{
+    "cord_uid": "1dfzj1b3",
+    "source_x": "PMC",
+    "pmcid": "PMC6259136",
+    "divid": "96",
+    "text": "There are three isoforms of NOS: constitutive (cNOS), endothelial (eNOS) and the other is cytokine-inducible NOS (iNOS). Inflammatory mediators such as IL-1, TNF-α or LPS stimulate iNOS expression in rodent macrophages in vitro. NO production and/or iNOS expression are also induced by inflammatory mediators in a wide variety of mammalian cells, producing large amounts of NO for prolonged time periods [25] . iNOS catalises the production of large amount of NO from L-arginine and molecular oxygen, is mainly triggered and regulated by a series of signalling pathways including nuclear factor-κB (NF-κB) transcription factor and mitogen-activated protein kinases (MAPKs) [116] .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 411,
+                "end": 415
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 114,
+                "end": 118
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 181,
+                "end": 185
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 250,
+                "end": 254
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 599,
+                "end": 604
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 666,
+                "end": 671
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

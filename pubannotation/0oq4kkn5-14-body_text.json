@@ -1,0 +1,42 @@
+{
+    "cord_uid": "0oq4kkn5",
+    "source_x": "PMC",
+    "pmcid": "PMC5052702",
+    "divid": "14",
+    "text": "2 (120 mg, 0.61 mmol, 1 eq) was dissolved in ice cooled acetic acid (5 ml (2), 29.1 (2), 25.1 (2).",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 85,
+                "end": 86
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 95,
+                "end": 96
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 0,
+                "end": 1
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 75,
+                "end": 76
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

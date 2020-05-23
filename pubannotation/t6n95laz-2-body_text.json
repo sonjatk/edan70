@@ -1,0 +1,66 @@
+{
+    "cord_uid": "t6n95laz",
+    "source_x": "PMC",
+    "pmcid": "PMC3820766",
+    "divid": "2",
+    "text": "In China, the hepatitis B surface antigen (HBsAg) seropositive rate for the general population (between 1 and 59 years of age) is 7.18% (1) . Globally, there are ~93 million individuals with hepatitis B virus (HBV) infections, 20 million of which are chronic (2) . Hepatitis B is the most common risk factor for liver cirrhosis and hepatocellular carcinoma (HCC), and the mortality of HBV-induced acute-on-chronic liver failure (ACLF) may exceed 60%. HBV infections are not easy to cure, and the mechanisms of the virus are unclear, particularly with regard to protein expression and regulation function in the pathogenic process.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 43,
+                "end": 48
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 137,
+                "end": 138
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 104,
+                "end": 105
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 451,
+                "end": 454
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 210,
+                "end": 213
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 358,
+                "end": 361
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 429,
+                "end": 433
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

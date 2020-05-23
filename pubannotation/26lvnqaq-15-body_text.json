@@ -1,0 +1,18 @@
+{
+    "cord_uid": "26lvnqaq",
+    "source_x": "PMC",
+    "pmcid": "PMC6116506",
+    "divid": "15",
+    "text": "Organ samples were weighed and homogenized, in a solution of phosphate buffered saline (PBS) and antibiotic-antimycotic (penicillin, streptomycin and amphotericin B). Homogenates were clarified by centrifugation at 10 000 g, for 10 min at 4 °C, and stored at −80 °C.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 88,
+                "end": 91
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

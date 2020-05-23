@@ -1,0 +1,138 @@
+{
+    "cord_uid": "1qgpa45q",
+    "source_x": "PMC",
+    "pmcid": "PMC6941262",
+    "divid": "4",
+    "text": "Human metapneumovirus (HMPV) is a single-stranded RNA virus in the family Paramyxoviridae and closely related to human respiratory syncytial virus (RSV) [1] . HMPV causes respiratory disease similar to RSV, ranging from mild upper respiratory infection to bronchiolitis and pneumonia [2] . HMPV infections are seasonal and coinfection with other respiratory pathogens is common [1] . The HMPV genome is approximately 13 kb and comprises eight open reading frames (ORFs) encoding nucleoprotein (N), phosphoprotein (P), matrix protein (M), fusion glycoprotein (F), transcription enhancer protein (M2), small hydrophobic protein (SH), attachment glycoprotein (G), and large polymerase protein (L) [3] . The membrane glycoproteins F and G sequences are used to define two major genotypes or groups, A and B, which are further classified into four subgroups (A1, A2, B1, and B2). HMPV A2, the most frequently observed subgroup, is further divided into two proposed sub-lineages (A2a and A2b) [3] .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 23,
+                "end": 27
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 875,
+                "end": 879
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 159,
+                "end": 163
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 388,
+                "end": 392
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 290,
+                "end": 294
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 148,
+                "end": 151
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 202,
+                "end": 205
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 464,
+                "end": 468
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 494,
+                "end": 495
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 514,
+                "end": 515
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T11",
+            "span": {
+                "begin": 534,
+                "end": 535
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T12",
+            "span": {
+                "begin": 559,
+                "end": 560
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T13",
+            "span": {
+                "begin": 727,
+                "end": 728
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T14",
+            "span": {
+                "begin": 627,
+                "end": 629
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T15",
+            "span": {
+                "begin": 657,
+                "end": 658
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T16",
+            "span": {
+                "begin": 733,
+                "end": 734
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

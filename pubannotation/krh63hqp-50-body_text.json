@@ -1,0 +1,18 @@
+{
+    "cord_uid": "krh63hqp",
+    "source_x": "PMC",
+    "pmcid": "PMC3507676",
+    "divid": "50",
+    "text": "Additional file 2: Relative Synonymous Codon Usage (RSCU) data, in .csv format.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 52,
+                "end": 56
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

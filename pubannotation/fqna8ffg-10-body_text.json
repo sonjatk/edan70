@@ -1,0 +1,34 @@
+{
+    "cord_uid": "fqna8ffg",
+    "source_x": "PMC",
+    "pmcid": "PMC4915176",
+    "divid": "10",
+    "text": "In comparison to sham treated controls, the IT delivery of 20ug CNP induced no detectable histological alterations in the epithelial architecture of the lungs within 24 h after instillation. However, particle laden alveolar macrophages (AM) can be detected in the alveoli and even more prominent on cytospin preparations of by BAL recovered cells from CNP treated lungs (Fig. 1 ). The appearance of particle laden AM was accompanied by an accumulation of polymorphonuclear neutrophils (PMN) 24 h after CNP IT. No particle agglomerates could be detected in structural cells, such as ATII cells.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 414,
+                "end": 416
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 237,
+                "end": 239
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 486,
+                "end": 489
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

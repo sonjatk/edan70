@@ -1,0 +1,74 @@
+{
+    "cord_uid": "9xelf8oh",
+    "source_x": "PMC",
+    "pmcid": "PMC7088385",
+    "divid": "32",
+    "text": "Our assays offer several advantages over assays for SQPV (Atkin et al. 2010; Fiegna et al. 2016; McInnes et al. 2009 ) and SADV (Everest et al. 2009b) , namely increased specificity (using a hydrolysis probe), sensitivity (using qPCR) and a reduction in the occurrence of false negatives (e.g. insufficient DNA purification and PCR inhibition) via the use of a specific squirrel endogenous IC. In fact, the latter factor proved important in 7 out of 24 faecal samples analysed when screening samples, when, despite apparently adequate amounts of DNA, no amplification for the PGK assay (or either pathogen assay) was recorded. In the absence of an IC, these samples could have been classed as negative and highlight that a differing extraction process is required for faecal samples. (1) (2) (6) (6) (7) (6) (2) (1) (7) (6) (4) (4) (6) (4) (5) 0 1 1 1 1 1 1 1 1 1 1 1 1 1",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 797,
+                "end": 798
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 805,
+                "end": 806
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 833,
+                "end": 834
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 793,
+                "end": 794
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 821,
+                "end": 822
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 837,
+                "end": 838
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 829,
+                "end": 830
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 825,
+                "end": 826
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

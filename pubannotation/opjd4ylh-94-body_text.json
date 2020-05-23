@@ -1,0 +1,18 @@
+{
+    "cord_uid": "opjd4ylh",
+    "source_x": "PMC",
+    "pmcid": "PMC6949926",
+    "divid": "94",
+    "text": "Managements should appreciate TB nurses and acknowledge their services through accolades and incentives to boost their morale. • TB nurses should be screened for free as stipulated in the Occupational Health and Safety (OHS) Act to monitor their health status",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 220,
+                "end": 223
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "cord_uid": "v07oosd2",
+    "source_x": "PMC",
+    "pmcid": "PMC5437690",
+    "divid": "4",
+    "text": "The prevalence of colistin resistance in pigs and the possible link between colistin pharmacokinetic/pharmacodynamic (PK/PD) and emergence of resistance in Enterobacteriaceae in swine, as well as the aspects that should be considered to ensure judicious use of colistin in swine production, have been investigated in our last two reviews [18, 25] .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 118,
+                "end": 123
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

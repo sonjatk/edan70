@@ -1,0 +1,98 @@
+{
+    "cord_uid": "me1ajoyb",
+    "source_x": "PMC",
+    "pmcid": "PMC3970152",
+    "divid": "5",
+    "text": "Currently, three laboratory infection systems have been developed to study hantavirus infections of reservoir hosts: Seoul virus (SEOV) infection of the Norway rat (Rattus norvegicus), Puumala virus (PUUV) infection of the bank vole (Myodes glareolus), and Sin Nombre virus (SNV) infection of the deer mouse (Peromyscus maniculatus) [12, 14, 16] . In humans, these viruses are etiologic agents of hemorrhagic fever with renal syndrome (HFRS; SEOV, PUUV) and hantavirus cardiopulmonary syndrome (HCPS; SNV) [1]. These diseases share many pathologic similarities and because little damage to the endothelium occurs during infection, it is thought that the inflammatory immune response contributes to pathogenesis [17, 18] . Because the Norway rat is a model organism with many specific reagents, including monoclonal antibodies to immune markers, significant progress has been made toward understanding the reservoir host immune response to SEOV [19] [20] [21] . Fewer methods and reagents are available for bank voles and deer mice. Despite these limitations, emerging technologies will be useful for understanding why rodent reservoirs are infected without disease and why they are unable to clear infection. A significant limitation of HFRS research is that none of the HFRS-causing hantaviruses cause disease in animal models. However, two New World hantaviruses cause an HCPS-like disease in Syrian golden hamsters (Mesocricetus auratus): Andes virus (ANDV) and Maporal virus (MAPV) [22, 23] . ANDV causes most HCPS cases in South America; however, no human cases of disease have been associated with MAPV. ANDV is hosted by the long-tailed pygmy rice rat (Oligoryzomys longicaudatus) and MAPV is hosted by the delicate pygmy rice rat (Oligoryzomys delicatus) [24, 25] . ANDV is considered an animal biosafety level-4 pathogen in most nations, whereas MAPV is considered an ABSL-3 virus [26] .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 130,
+                "end": 134
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 939,
+                "end": 943
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 442,
+                "end": 446
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 448,
+                "end": 452
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 200,
+                "end": 204
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 275,
+                "end": 278
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 501,
+                "end": 504
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 1604,
+                "end": 1608
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 1855,
+                "end": 1859
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 1692,
+                "end": 1696
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T11",
+            "span": {
+                "begin": 1480,
+                "end": 1484
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

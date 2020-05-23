@@ -1,0 +1,74 @@
+{
+    "cord_uid": "m6abyuvx",
+    "source_x": "PMC",
+    "pmcid": "PMC3524174",
+    "divid": "13",
+    "text": "We hypothesized that the reduction in the levels of HCV core protein in rVV-HCV-treated mice was not caused by cytolytic elimination of hepatocytes that expressed HCV proteins. To investigate this hypothesis, we conducted an RTD-PCR analysis of genomic DNA from liver samples of CN2-29 (+/2) /MxCre (+/2) mice. The recombined transgene was similar in rVV-N25-treated and control mice 28 days after immunization ( Figure 3D ). We also measured the expression of HCV mRNA in LC16m8-treated CN2-29 (+/2) /MxCre (+/2) mice with that in rVV-N25-treated CN2-29 (+/2) /MxCre (+/2) mice 28 days after immunization; the HCV mRNA levels did not differ between rVV-N25-treated CN2-29 (+/2) /MxCre (+/2) and control mice ( Figure 3E ). These results indicated that rVV-N25-induced suppression of HCV core protein expression could be controlled at a posttranscriptional level.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 300,
+                "end": 303
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 556,
+                "end": 559
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 496,
+                "end": 499
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 674,
+                "end": 677
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 509,
+                "end": 512
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 287,
+                "end": 290
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 687,
+                "end": 690
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 569,
+                "end": 572
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

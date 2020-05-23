@@ -1,0 +1,34 @@
+{
+    "cord_uid": "v07oosd2",
+    "source_x": "PMC",
+    "pmcid": "PMC5437690",
+    "divid": "20",
+    "text": "Porcine attaching and effacing E. coli (AEEC) induce intestinal lesions similar to those produced by enteropathogenic E. coli (EPEC) in humans, and this pathotype is found in pigs with PWD [40] . These E. coli carry the eae gene encoding a 94 kDa outer membrane protein (intimin) which is responsible for intimate attachment to epithelial cells. However, the pathogenic significance of porcine EAE positive isolates in weaned pigs is still unknown [2] . Furthermore, identification of porcine EPEC is difficult and many veterinary diagnostic laboratories do not routinely screen for this pathotype of E. coli, isolates of which do not usually possess any of virulence factors of classic PWD or oedema strains [40] .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 40,
+                "end": 44
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 493,
+                "end": 497
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 127,
+                "end": 131
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

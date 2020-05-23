@@ -1,0 +1,130 @@
+{
+    "cord_uid": "t6n95laz",
+    "source_x": "PMC",
+    "pmcid": "PMC3820766",
+    "divid": "1",
+    "text": "The aim of this study was to analyze the changes in serum protein levels in the progression of hepatitis B using isobaric tags for relative and absolute quantitation (iTRAQ) analysis, in addition to comparing the serum protein levels of patients with chronic hepatitis B (CHB), patients with hepatitis B virus-induced acute-on-chronic liver failure (HBV-induced ACLF) and normal individuals. Protein analysis was performed on 15 serum samples using iTRAQ. The study population included healthy controls (n=5), patients with CHB (n=5) and patients with HBV-induced ACLF (n=5). Western blotting was used to verify the results in an additional nine serum samples from healthy controls, patients with CHB and patients with HBV-induced ACLF (n=3, respectively). Using iTRAQ analysis, 16 different serum proteins with ≥1.5-fold differences in expression levels were identified in the patients with CHB and ACLF compared with the healthy controls. Five of those proteins, C-reactive protein precursor, hemoglobin β chain variant Hb S-Wake, apolipoprotein J precursor, platelet factor 4 precursor and vitronectin, which demonstrated the greatest differences in their expression levels and the most significant correlation with liver diseases, were subsequently verified using western blotting. The western blotting results were consistent with the results from the iTRAQ. Two of the five proteins are not classified by biological process, and the biological functions of all the proteins in HBV-induced ACLF remain unclear. This preliminary study demonstrated that a correlation between the expression of various serum proteins and the different pathogenetic conditions induced by HBV may exist. The analysis of a larger number of samples is required to identify potential protein biomarkers that may be involved in the pathogenesis and progression of hepatitis B.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 449,
+                "end": 454
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 763,
+                "end": 768
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 1357,
+                "end": 1362
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 167,
+                "end": 172
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 892,
+                "end": 895
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 524,
+                "end": 527
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 697,
+                "end": 700
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 272,
+                "end": 275
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 719,
+                "end": 735
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 1483,
+                "end": 1499
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T11",
+            "span": {
+                "begin": 350,
+                "end": 366
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T12",
+            "span": {
+                "begin": 552,
+                "end": 568
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T13",
+            "span": {
+                "begin": 504,
+                "end": 507
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T14",
+            "span": {
+                "begin": 529,
+                "end": 532
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T15",
+            "span": {
+                "begin": 570,
+                "end": 573
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

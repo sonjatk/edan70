@@ -1,0 +1,106 @@
+{
+    "cord_uid": "6lv3di4x",
+    "source_x": "PMC",
+    "pmcid": "PMC6258954",
+    "divid": "1",
+    "text": "The mosquito-borne Japanese encephalitis virus (JEV) causes severe central nervous system diseases and cycles between Culex mosquitoes and different vertebrates. For JEV and some other flaviviruses, oronasal transmission is described, but the mode of infection is unknown. Using nasal mucosal tissue explants and primary porcine nasal epithelial cells (NEC) at the air-liquid interface (ALI) and macrophages as ex vivo and in vitro models, we determined that the nasal epithelium could represent the route of entry and exit for JEV in pigs. Porcine NEC at the ALI exposed to with JEV resulted in apical and basolateral virus shedding and release of monocyte recruiting chemokines, indicating infection and replication in macrophages. Moreover, macrophages stimulated by alarmins, including interleukin-25, interleukin-33, and thymic stromal lymphopoietin, were more permissive to the JEV infection. Altogether, our data are important to understand the mechanism of nonvector-borne direct transmission of Japanese encephalitis virus in pigs. IMPORTANCE JEV, a main cause of severe viral encephalitis in humans, has a complex ecology composed of a mosquito-waterbird cycle and a cycle involving pigs, which amplifies virus transmission to mosquitoes, leading to increased human cases. JEV can be transmitted between pigs by contact in the absence of arthropod vectors. Moreover, virus or viral RNA is found in oronasal secretions and the nasal epithelium. Using nasal mucosa tissue explants and three-dimensional porcine nasal epithelial cells cultures and macrophages as ex vivo and in vitro models, we determined that the nasal epithelium could be a route of entry as well as exit for the virus. Infection of nasal epithelial cells resulted in apical and basolateral virus shedding and release of monocyte recruiting chemokines and therefore infection and replication in macrophages, which is favored by epithelial-cell-derived cytokines. The results are relevant to understand the mechanism of non-vector-borne direct transmission of JEV.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 580,
+                "end": 583
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 884,
+                "end": 887
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 1283,
+                "end": 1286
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 2035,
+                "end": 2038
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 528,
+                "end": 531
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 48,
+                "end": 51
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 1052,
+                "end": 1055
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 166,
+                "end": 169
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 549,
+                "end": 552
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 353,
+                "end": 356
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T11",
+            "span": {
+                "begin": 387,
+                "end": 390
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T12",
+            "span": {
+                "begin": 560,
+                "end": 563
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

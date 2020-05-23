@@ -1,0 +1,74 @@
+{
+    "cord_uid": "zgywyubf",
+    "source_x": "PMC",
+    "pmcid": "PMC3506457",
+    "divid": "2",
+    "text": "Results: We observed that heterologous expression of the open reading frame 2 (ORF2) protein in human hepatoma cells led to stabilization of the cellular I kappa B alpha (IκBα) pool, with a concomitant reduction in the nuclear localization of the p65 subunit of NF-κB and inhibition of NF-κB activity. Although basal or TPA induced phosphorylation of IκBα was not altered, its ubiquitination was markedly reduced in ORF2 expressing cells. Further analysis revealed that ORF2 protein could directly associate with the F-box protein, beta transducin repeat containing protein (βTRCP) and ORF2 over expression resulted in reduced association of IκBα with the SKP1 and CUL1 components of the SCF βTRCP complex. Chromatin immunoprecipitation (ChIP) assay of the proximal promoter regions of MHC-I heavy chain and IL-8 genes using p65 antibody and LPS stimulated ORF2 expressing cell extract revealed decreased association of p65 with the above regions, indicating that ORF2 inhibited p65 binding at endogenous promoters. Conclusions: In this report we suggest a mechanism by which ORF2 protein of HEV may inhibit host cell NF-κB activity during the course of a viral infection.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 79,
+                "end": 83
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 586,
+                "end": 590
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 857,
+                "end": 861
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 964,
+                "end": 968
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 1076,
+                "end": 1080
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 470,
+                "end": 474
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 416,
+                "end": 420
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 738,
+                "end": 742
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

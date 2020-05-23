@@ -1,0 +1,42 @@
+{
+    "cord_uid": "ux38431n",
+    "source_x": "PMC",
+    "pmcid": "PMC4391708",
+    "divid": "3",
+    "text": "Nasopharyngeal aspirates (NPAs) or induced sputum (IS) was collected from hospitalised children with SARIs in Beijing (representing Northern China; n = 259) and Zhejiang Province (representing Eastern China; n = 293) from 2007 to 2010. The prevalence of HAdV was screened by polymerase chain reaction (PCR), followed by sequence typing of PCR fragments that targeted the second half of the hexon gene. In addition, co-infection with other human respiratory viruses, related epidemiological profiles and clinical presentations were investigated.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 26,
+                "end": 30
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 51,
+                "end": 53
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 339,
+                "end": 342
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 302,
+                "end": 305
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

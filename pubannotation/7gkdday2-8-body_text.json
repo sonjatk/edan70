@@ -1,0 +1,74 @@
+{
+    "cord_uid": "7gkdday2",
+    "source_x": "PMC",
+    "pmcid": "PMC5367831",
+    "divid": "8",
+    "text": "Viral nucleic acids were extracted from nasal swab specimens that had been collected in VTM using PureLink 1 Viral RNA/DNA Mini Kit (Invitrogen, CA, USA). The extracted nucleic acids were then subjected to single-plex reverse transcription qPCR (RT-qPCR) for detection of respiratory viruses including human rhinovirus (HRV), respiratory syncytial virus (RSV), influenza A and B, human parainfluenza viruses type 1 to 3 (HPIV1, HPIV2, HPIV3), human metapneumovirus (HMPV), adenovirus, and human bocavirus (HBoV). The RT-qPCR was done using AgPath-ID™ One-Step RT-PCR Kit (Invitrogen, CA, USA) and CFX96 Touch™ Real-Time PCR detection system (Bio-Rad, CA, USA). The results of RT-qPCR were considered positive if an exponential fluorescence curve could cross the assigned threshold at C t <40.0. Previously published primers and probes were used for viral pathogen detection by RT-qPCR [12] [13] [14] [15] .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 517,
+                "end": 524
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 877,
+                "end": 884
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 676,
+                "end": 683
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 246,
+                "end": 253
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 320,
+                "end": 323
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 355,
+                "end": 358
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 466,
+                "end": 470
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 506,
+                "end": 510
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

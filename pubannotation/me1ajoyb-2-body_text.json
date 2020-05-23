@@ -1,0 +1,66 @@
+{
+    "cord_uid": "me1ajoyb",
+    "source_x": "PMC",
+    "pmcid": "PMC3970152",
+    "divid": "2",
+    "text": "Hantaviruses (family Bunyaviridae, genus Hantavirus) are negative-stranded, trisegmented viruses that cause about 200,000 disease cases annually, with case fatality rates of 0.5%-40%, depending on the virus [1] . The viral gene segments encode four or five polypeptides. The large (L) segment encodes the RNA-dependent RNA polymerase (RdRp), the medium (M) segment encodes a precursor that is posttranslationally cleaved into Gn and Gc glycoproteins, and the small (S) segment encodes the nucleocapsid (N) protein. Some hantaviruses encode a second nonstructural polypeptide (NSs) downstream from the N start site in frame 2 [2, 3] . Little is known about the immunomodulatory abilities of these proteins; however, there is evidence the N, Gn and NSs may alter host cellular responses during infection.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 282,
+                "end": 283
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 335,
+                "end": 339
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 354,
+                "end": 355
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 466,
+                "end": 467
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 737,
+                "end": 738
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 601,
+                "end": 602
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 503,
+                "end": 504
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

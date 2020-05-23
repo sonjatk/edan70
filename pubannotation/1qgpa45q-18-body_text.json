@@ -1,0 +1,122 @@
+{
+    "cord_uid": "1qgpa45q",
+    "source_x": "PMC",
+    "pmcid": "PMC6941262",
+    "divid": "18",
+    "text": "Nasopharyngeal and oropharyngeal (NP-OP) swab samples were collected from children (1-59 months) hospitalized with pneumonia, four of whom were enrolled in the PERCH study [18] in 2012. The fifth sample was collected from a child enrolled in the routine pneumonia surveillance study at Kilifi County Hospital, Kenya, in 2015. The samples were tested for HMPV by multiplex semi-quantitative real-time reverse transcription PCR (rRT-PCR) assays. The rRT-PCR primers and probes used, cycling conditions and assay set up have been described elsewhere [28, 29] . Fusion (F) and glycoprotein (G) encoding genes of the HMPV positive samples were amplified in a one-step RT-PCR assay (OneStep RT-PCR kit, QIAGEN), as described previously [7] . Partial G or F nucleotide sequences were analyzed by maximum likelihood (ML) phylogenetic trees using IQ-TREE [30] , together with reference strains of HMPV subgroups (accession numbers AF371337.2, FJ168779, AY297749, AY530095, JN184401 and AY297748). Five HMPV positive samples from the Kenya and Zambia study sites, belonging to the A2a (n = 1), A2b (n = 2), B1 (n = 1) and B2 (n = 1) genetic subgroups based on their G and F gene sequences, were selected for whole genome sequencing. Data on age, sex and clinical assessment information collected at the time of sample collection, for the five selected samples, are shown in Table 3 .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 34,
+                "end": 39
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 427,
+                "end": 434
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 448,
+                "end": 455
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 1162,
+                "end": 1163
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 566,
+                "end": 567
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 749,
+                "end": 750
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 587,
+                "end": 588
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 744,
+                "end": 745
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 1156,
+                "end": 1157
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 809,
+                "end": 811
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T11",
+            "span": {
+                "begin": 1089,
+                "end": 1094
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T12",
+            "span": {
+                "begin": 1101,
+                "end": 1106
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T13",
+            "span": {
+                "begin": 1116,
+                "end": 1121
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T14",
+            "span": {
+                "begin": 1076,
+                "end": 1081
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

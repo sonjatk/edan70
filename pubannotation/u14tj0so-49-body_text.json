@@ -1,0 +1,18 @@
+{
+    "cord_uid": "u14tj0so",
+    "source_x": "PMC",
+    "pmcid": "PMC4064103",
+    "divid": "49",
+    "text": "IPknot IPknot is a secondary structure prediction method based on Maximum Expected Accuracy (MEA) of the base pairs. In addition to the RNA sequence, IPknot gets several parameters as input. Following, we describe each of these parameters and settings briefly.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 93,
+                "end": 96
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

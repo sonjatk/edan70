@@ -1,0 +1,26 @@
+{
+    "cord_uid": "b78pccz5",
+    "source_x": "PMC",
+    "pmcid": "PMC4895703",
+    "divid": "64",
+    "text": "• -90% for radon, carbon monoxide (CO) and second hand smoke (SHS)",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 35,
+                "end": 37
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 62,
+                "end": 65
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

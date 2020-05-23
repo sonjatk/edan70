@@ -1,0 +1,34 @@
+{
+    "cord_uid": "btuoin6d",
+    "source_x": "PMC",
+    "pmcid": "PMC7033854",
+    "divid": "4",
+    "text": "If Adv infection can be diagnosed early, increased monitoring and early applied organ support may improve the clinical outcome of these patients. However, sufficient data on the distinctive characteristics of Adv infections in immunocompetent patients is currently unavailable. We previously observed that adenoviruspositive community-acquired pneumonia (CAP) patients have a high fever and respond differently to antipyretic treatment compared to CAP patients who test positive for other viruses or bacteria. Therefore, the primary goal of this study was to compare the clinical characteristics of Adv-and Non-Adv-positive CAP patients among immunocompetent military personnel and to identify the distinctive characteristics.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 355,
+                "end": 358
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 624,
+                "end": 627
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 448,
+                "end": 451
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

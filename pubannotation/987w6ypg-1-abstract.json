@@ -1,0 +1,18 @@
+{
+    "cord_uid": "987w6ypg",
+    "source_x": "PMC",
+    "pmcid": "PMC4251951",
+    "divid": "1",
+    "text": "Background: Interferon induced transmembrane proteins 1, 2 and 3 (IFITMs) belong to a family of highly related antiviral factors that have been shown to interfere with a large spectrum of viruses including Filoviruses, Coronaviruses, Influenza virus, Dengue virus and HIV-1. In all these cases, the reported mechanism of antiviral inhibition indicates that the pool of IFITM proteins present in target cells blocks incoming viral particles in endosomal vesicles where they are subsequently degraded.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 66,
+                "end": 72
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

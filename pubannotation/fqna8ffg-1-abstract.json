@@ -1,0 +1,58 @@
+{
+    "cord_uid": "fqna8ffg",
+    "source_x": "PMC",
+    "pmcid": "PMC4915176",
+    "divid": "1",
+    "text": "Background: Carbonaceous nanoparticles (CNP) represent a major constituent of urban particulate air pollution, and inhalation of high CNP levels has been described to trigger a pro-inflammatory response of the lung. While several studies identified specific particle characteristics driving respiratory toxicity of low-solubility and low-toxicity particles such as CNP, the major lung cell type, which initiates and drives that response, remains still uncertain. Since alveolar macrophages (AM) are known to effectively phagocytose inhaled particles and play a crucial role for the initiation of pulmonary inflammation caused by invading microbes, we aimed to determine their role for sterile stimuli such as CNP by profiling the primary alveolar cell compartments of the lung. We exposed C57BL/6 mice to 20 μg CNP by intratracheal instillation and comprehensively investigated the expression of the underlying mediators during a time span of 3 to 72 h in three different lung cell populations: CD45-(negative) structural cells, CD45+ (positive) leukocytes, and by BAL recovered cells.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 134,
+                "end": 137
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 811,
+                "end": 814
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 365,
+                "end": 368
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 709,
+                "end": 712
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 40,
+                "end": 43
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 491,
+                "end": 493
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

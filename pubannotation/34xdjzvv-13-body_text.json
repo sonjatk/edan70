@@ -1,0 +1,90 @@
+{
+    "cord_uid": "34xdjzvv",
+    "source_x": "PMC",
+    "pmcid": "PMC3728341",
+    "divid": "13",
+    "text": "In addition to the two genotypes of EV71, we also examined whether N3 could protect hSCARB2-transgenic mice from Coxsackie virus A16 (CVA16) infection. One dose of early N3 administration after CVA16 infection significantly prolonged survival but did not rescue the mice from developing neurological syndromes which eventually led to death (Fig. S1 ). This result could be explained by the result of weaker cross-neutralization of N3 against CVA16 (Fig. S2 ). Indeed, N3 was able to recognize CVA16 virions that was evident by evaluating the binding of N3 with CVA16 using ELISA (for naïve protein interaction; Fig. S3 ) and Western blot (for denatured protein interaction; Fig. S4 ). In contrast to highly binding to two EV71 strains, N3 showed lower affinity to naïve CVA16 (Fig. S3) . Oppositely, anti-CVA16 antisera, obtained from mice immunized twice with live CVA16, equally detected all EV71 virus and CVA16 particles as depicted in Fig. S4 . N3 recognizes the VP1 proteins of both B4 and C2 EV71 at approximately 35 kDa [17, 21] and the VP0 of CVA16 at approximately 50 kDa [22] that is different from anti-CVA16 antisera which detected similar capsid protein patterns among both EV71 and CVA16 isolates with highlighted VP3 at approximately 26 kDa.",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 194,
+                "end": 199
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 442,
+                "end": 447
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 770,
+                "end": 775
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 866,
+                "end": 871
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 909,
+                "end": 914
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 1197,
+                "end": 1202
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T7",
+            "span": {
+                "begin": 561,
+                "end": 566
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T8",
+            "span": {
+                "begin": 1052,
+                "end": 1057
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T9",
+            "span": {
+                "begin": 134,
+                "end": 139
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T10",
+            "span": {
+                "begin": 493,
+                "end": 498
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

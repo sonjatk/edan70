@@ -1,0 +1,34 @@
+{
+    "cord_uid": "88q36g00",
+    "source_x": "PMC",
+    "pmcid": "PMC6003913",
+    "divid": "4",
+    "text": "Maternal H 2 administration restored offspring growth. We investigated postnatal growth, which could be related to neurologic outcome. From postnatal day (P) 6 to P10, offspring growth was significantly retarded in the LPS group than in the Control group (p < 0.05). Although significant differences were not observed between the LPS and LPS + HW group, maternal administration of Hydrogen water (HW) restored offspring growth to the control level (Fig. 1) .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 155,
+                "end": 156
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 344,
+                "end": 346
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 397,
+                "end": 399
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

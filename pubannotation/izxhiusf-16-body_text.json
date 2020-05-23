@@ -1,0 +1,18 @@
+{
+    "cord_uid": "izxhiusf",
+    "source_x": "PMC",
+    "pmcid": "PMC3420249",
+    "divid": "16",
+    "text": "All NTHi isolates were discriminated from nonhaemolytic Haemophilus haemolyticus (non-haemolytic H. haemolyticus) using molecular techniques [13] .",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 82,
+                "end": 112
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}

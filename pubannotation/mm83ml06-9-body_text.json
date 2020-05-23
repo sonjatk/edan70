@@ -1,0 +1,58 @@
+{
+    "cord_uid": "mm83ml06",
+    "source_x": "PMC",
+    "pmcid": "PMC5580479",
+    "divid": "9",
+    "text": "Protein samples were separated by SDS-PAGE [56] and subsequently transferred onto polyvinylidene fluoride (PVDF) membranes (GE Healthcare, Little Chalfont, UK). Membranes were blocked with 3% bovine serum albumin and incubated with the appropriate primary antibody (Ab). Gag was detected by a rabbit Ab recognizing CA (Seramun, Heidesee, Germany). The anti-β-actin antibody was purchased from Sigma-Aldrich (St. Louis, MO, USA). The anti-mouse and anti-rabbit Viruses 2017, 9, 222 5 of 22 secondary antibodies coupled to horseradish peroxidase (HRP) were obtained from Dianova (Hamburg, Germany). HA-tagged ubiquitin was visualized using an HA-reactive monoclonal antibody (mAb) directly conjugated to HRP (Roche).",
+    "project": "cdlai_CORD-19",
+    "denotations": [
+        {
+            "id": "S-scispacy-abbr_T1",
+            "span": {
+                "begin": 107,
+                "end": 111
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T2",
+            "span": {
+                "begin": 266,
+                "end": 268
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T3",
+            "span": {
+                "begin": 300,
+                "end": 302
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T4",
+            "span": {
+                "begin": 702,
+                "end": 705
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T5",
+            "span": {
+                "begin": 545,
+                "end": 548
+            },
+            "obj": "Abbreviation"
+        },
+        {
+            "id": "S-scispacy-abbr_T6",
+            "span": {
+                "begin": 674,
+                "end": 677
+            },
+            "obj": "Abbreviation"
+        }
+    ]
+}
