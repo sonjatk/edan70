@@ -1,2 +1,177 @@
 Short form,Long form
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+HMPV,metapneumovirus
+RSV,respiratory syncytial virus
+RSV,respiratory syncytial virus
+RSV,respiratory syncytial virus
+ORFs,reading frames
+ORFs,reading frames
+ORFs,reading frames
+N,nucleoprotein
+N,nucleoprotein
+N,nucleoprotein
+N,nucleoprotein
+N,nucleoprotein
+P,phosphoprotein
+P,phosphoprotein
+P,phosphoprotein
+M,matrix protein
+M,matrix protein
+M,matrix protein
+M,matrix protein
+F,fusion glycoprotein
+F,fusion glycoprotein
+F,fusion glycoprotein
+F,fusion glycoprotein
+F,fusion glycoprotein
+F,fusion glycoprotein
+F,fusion glycoprotein
+F,fusion glycoprotein
+F,fusion glycoprotein
+F,fusion glycoprotein
+F,fusion glycoprotein
+F,fusion glycoprotein
+F,fusion glycoprotein
+F,fusion glycoprotein
+F,fusion glycoprotein
+F,fusion glycoprotein
+SH,small hydrophobic protein
+SH,small hydrophobic protein
+SH,small hydrophobic protein
+SH,small hydrophobic protein
+SH,small hydrophobic protein
+SH,small hydrophobic protein
+SH,small hydrophobic protein
+SH,small hydrophobic protein
+SH,small hydrophobic protein
+G,glycoprotein
+G,glycoprotein
+G,glycoprotein
+G,glycoprotein
+G,glycoprotein
+G,glycoprotein
+G,glycoprotein
+G,glycoprotein
+G,glycoprotein
+G,glycoprotein
+G,glycoprotein
+G,glycoprotein
+G,glycoprotein
+G,glycoprotein
+ARI,acute respiratory infections
+ARI,acute respiratory infections
+ARI,acute respiratory infections
 WGS,whole genome sequencing
+nt,nucleotide
+nt,nucleotide
+nt,nucleotide
+nt,nucleotide
+nt,nucleotide
+nt,nucleotide
+nt,nucleotide
+nt,nucleotide
+nt,nucleotide
+nt,nucleotide
+nt,nucleotide
+nt,nucleotide
+aa,amino acid
+aa,amino acid
+aa,amino acid
+aa,amino acid
+NP-OP,Nasopharyngeal and oropharyngeal
+rRT-PCR,transcription PCR
+rRT-PCR,transcription PCR
+rRT-PCR,transcription PCR
+rRT-PCR,transcription PCR
+rRT-PCR,transcription PCR
+rRT-PCR,transcription PCR
+rRT-PCR,transcription PCR
+rRT-PCR,transcription PCR
+rRT-PCR,transcription PCR
+rRT-PCR,transcription PCR
+ML,maximum likelihood
+ML,maximum likelihood
+ML,maximum likelihood
+n = 2,"n = 1), A2b"
+n = 1,"n = 2), B1"
+n = 1,"n = 2), B1"
+n = 1,"n = 2), B1"
+Tm,temperature
+Tm,temperature
+FPMs,Forward Primer Mixes
+PPM,PCR Primer Mix
+PPM,PCR Primer Mix
+PPM,PCR Primer Mix
+PPM,PCR Primer Mix
+Illumina,Illumina sequencing and data analysis Libraries were prepared using Nextera XT kit
+Illumina,Illumina sequencing and data analysis Libraries were prepared using Nextera XT kit
+Illumina,Illumina sequencing and data analysis Libraries were prepared using Nextera XT kit
+Illumina,Illumina sequencing and data analysis Libraries were prepared using Nextera XT kit
+Illumina,Illumina sequencing and data analysis Libraries were prepared using Nextera XT kit
+GTR,general time-reversible
+GTR,general time-reversible
