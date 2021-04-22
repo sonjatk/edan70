@@ -18,9 +18,9 @@ import csv
 SUBSET = 'comm_use_subset_100'
 
 # Paths
-sci_md = "/mnt/c/Users/Sonja/OneDrive/Dokument/Skola/Projektkurs/en_core_sci_md-0.2.4/en_core_sci_md/en_core_sci_md-0.2.4"
-comm_use_subset = "/mnt/c/Users/Sonja/OneDrive/Dokument/Skola/Projektkurs/comm_use_subset_100/"
-metadata_path = "/mnt/c/Users/Sonja/OneDrive/Dokument/Skola/Projektkurs/edan70/metadata_comm_use_subset_100.csv"
+sci_md = "../en_core_sci_md-0.2.4/en_core_sci_md/en_core_sci_md-0.2.4"
+comm_use_subset = "../comm_use_subset_100/"
+metadata_path = "./metadata_comm_use_subset_100.csv"
 print("Loaded paths.")
 
 # load pre trained model by spaCy
