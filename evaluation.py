@@ -4,9 +4,9 @@ import json
 from matplotlib import pyplot as plt 
 import numpy as np  
 
-scrape_path_abbr = '/mnt/c/Users/Sonja/OneDrive/Dokument/Skola/Projektkurs/edan70/data/scrape_abbr/'
-spacy_path_abbr = '/mnt/c/Users/Sonja/OneDrive/Dokument/Skola/Projektkurs/edan70/data/spacy_abbr/'
-pa_path = '/mnt/c/Users/Sonja/OneDrive/Dokument/Skola/Projektkurs/edan70/pubannotation/'
+scrape_path_abbr = './data/scrape_abbr/'
+spacy_path_abbr = './data/spacy_abbr/'
+pa_path = './pubannotation/'
 
 scrape_abbrv = os.listdir(scrape_path_abbr)
 spacy_abbrv = os.listdir(spacy_path_abbr)
