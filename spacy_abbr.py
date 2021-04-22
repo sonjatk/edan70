@@ -9,10 +9,10 @@ import pickle
 SUBSET = 'comm_use_subset_100'
 all_articles = os.listdir(SUBSET)
 
-scrape_path_abbr = '/mnt/c/Users/Sonja/OneDrive/Dokument/Skola/Projektkurs/edan70/data/scrape_abbr/'
-spacy_path = '/mnt/c/Users/Sonja/OneDrive/Dokument/Skola/Projektkurs/edan70/pubannotation/'
-spacy_path_abbr = '/mnt/c/Users/Sonja/OneDrive/Dokument/Skola/Projektkurs/edan70/data/spacy_abbr/'
-metadata_path = "/mnt/c/Users/Sonja/OneDrive/Dokument/Skola/Projektkurs/edan70/metadata_comm_use_subset_100.csv"
+scrape_path_abbr = './data/scrape_abbr/'
+spacy_path = './edan70/pubannotation/'
+spacy_path_abbr = './data/spacy_abbr/'
+metadata_path = "./metadata_comm_use_subset_100.csv"
 
 
 scrape_abbrv = os.listdir(scrape_path_abbr)
