@@ -9,9 +9,9 @@ import bs4
 import requests
 
 #load metadatafile
-metadata_path = "/mnt/c/Users/Sonja/OneDrive/Dokument/Skola/Projektkurs/edan70/metadata_comm_use_subset_100.csv"
-data_path = "/mnt/c/Users/Sonja/OneDrive/Dokument/Skola/Projektkurs/comm_use_subset_100/"
-output_path = "/mnt/c/Users/Sonja/OneDrive/Dokument/Skola/Projektkurs/edan70/data/"
+metadata_path = "./metadata_comm_use_subset_100.csv"
+data_path = "./comm_use_subset_100/"
+output_path = "./data/"
 
 def extract_urls():
     '''
